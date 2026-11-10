@@ -1,0 +1,74 @@
+{
+  "semaglutide": {
+    "src": "/images/research/semaglutide-structure.png",
+    "alt": "PubChem 2D molecular structure of the named entity semaglutide, CID 56843331.",
+    "caption": "Molecular structure of the named research entity · not a product photograph or batch verification.",
+    "sourceUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/56843331",
+    "credit": "PubChem / NCBI · CID 56843331",
+    "type": "molecular structure"
+  },
+  "tesamorelin": {
+    "src": "/images/research/tesamorelin-structure.png",
+    "alt": "PubChem 2D molecular structure of the named entity tesamorelin, CID 16137828.",
+    "caption": "Molecular structure of the named research entity · not a product photograph or batch verification.",
+    "sourceUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/16137828",
+    "credit": "PubChem / NCBI · CID 16137828",
+    "type": "molecular structure"
+  },
+  "sermorelin": {
+    "src": "/images/research/sermorelin-structure.png",
+    "alt": "PubChem 2D molecular structure of the named entity sermorelin, CID 16132413.",
+    "caption": "Molecular structure of the named research entity · not a product photograph or batch verification.",
+    "sourceUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/16132413",
+    "credit": "PubChem / NCBI · CID 16132413",
+    "type": "molecular structure"
+  },
+  "mots-c": {
+    "src": "/images/research/mots-c-structure.png",
+    "alt": "PubChem 2D molecular structure of the named entity MOTS-c, CID 146675088.",
+    "caption": "Molecular structure of the named research entity · not a product photograph or batch verification.",
+    "sourceUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/146675088",
+    "credit": "PubChem / NCBI · CID 146675088",
+    "type": "molecular structure"
+  },
+  "ss31": {
+    "src": "/images/research/ss31-structure.png",
+    "alt": "PubChem 2D molecular structure of the named entity elamipretide, CID 11764719.",
+    "caption": "Molecular structure of the named research entity · not a product photograph or batch verification.",
+    "sourceUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/11764719",
+    "credit": "PubChem / NCBI · CID 11764719",
+    "type": "molecular structure"
+  },
+  "epithalon": {
+    "src": "/images/research/epithalon-structure.png",
+    "alt": "PubChem 2D molecular structure of the named entity epitalon, CID 219042.",
+    "caption": "Molecular structure of the named research entity · not a product photograph or batch verification.",
+    "sourceUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/219042",
+    "credit": "PubChem / NCBI · CID 219042",
+    "type": "molecular structure"
+  },
+  "oxytocin": {
+    "src": "/images/research/oxytocin-structure.png",
+    "alt": "PubChem 2D molecular structure of the named entity oxytocin, CID 439302.",
+    "caption": "Molecular structure of the named research entity · not a product photograph or batch verification.",
+    "sourceUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/439302",
+    "credit": "PubChem / NCBI · CID 439302",
+    "type": "molecular structure"
+  },
+  "glutathione": {
+    "src": "/images/research/glutathione-structure.png",
+    "alt": "PubChem 2D molecular structure of the named entity glutathione, CID 124886.",
+    "caption": "Molecular structure of the named research entity · not a product photograph or batch verification.",
+    "sourceUrl": "https://pubchem.ncbi.nlm.nih.gov/compound/124886",
+    "credit": "PubChem / NCBI · CID 124886",
+    "type": "molecular structure"
+  },
+  "tirzepatida-25mg-5x5mg-zphc": {
+    "src": "/images/research/tirze-25mg-reference.webp",
+    "alt": "Third-party reference packaging labelled ZPHC Tirze25mg, five5mg units; not a photograph of Bioupgrade stock.",
+    "caption": "Third-party packaging reference · label match only, not supplied-stock or batch verification.",
+    "sourceUrl": "https://zphcstore.com/tirze-25mg-zphc/",
+    "credit": "ZPHCstore product listing; no affiliation or endorsement implied",
+    "type": "reference packaging"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-11-10T07:50:01.902Z",
+  "domain": "6v43dx-ck.myshopify.com",
+  "authentication": "documented-tokenless-storefront",
+  "success": false,
+  "httpStatus": 400,
+  "data": null,
+  "error": {
+    "message": [
+      {
+        "message": "Online Store channel is locked.",
+        "extensions": {
+          "code": "BAD_REQUEST"
+        }
+      }
+    ],
+    "responseDiagnostic": "{\"errors\":[{\"message\":\"Online Store channel is locked.\",\"extensions\":{\"code\":\"BAD_REQUEST\"}}]}"
+  }
+}

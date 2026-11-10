@@ -1,0 +1,137 @@
+[
+  {
+    "id": "research-strategy-session",
+    "targetAudience": "Scientifically curious readers, students, science communicators and community participants seeking educational interpretation of a published paper, not personal medical or human-performance advice.",
+    "bestFor": "One agreed research-literacy question anchored to one published paper, discussed in the existing 60-minute individual session with a proposed durable written question map.",
+    "prework": [
+      "State the educational question and intended use without asking what you personally should take or do.",
+      "Provide the anchor paper link, DOI or PMID where available, and the claim or passage that needs interpretation.",
+      "Explain what you think the paper establishes and what remains uncertain.",
+      "Confirm source accessibility and disclose missing or inaccessible material without sending personal medical or sensitive information.",
+      "Confirm acceptance of the educational scope and the exclusion of diagnosis, prescribing, compound administration, dosing and personalised human-performance protocols."
+    ],
+    "outcomes": [
+      "A written question map recording the agreed question, source identity, exact entity, model or population, comparator and measured endpoint.",
+      "A source-linked evidence read separating reported findings, limitations, unsupported interpretations and missing information.",
+      "A next-reading shortlist and clear close, self-directed reading route or optional separately quoted project scope."
+    ],
+    "scopeLimits": [
+      "One agreed educational question and anchor paper; a fresh literature landscape or additional research question requires separate scope.",
+      "No exhaustive search, systematic review, formal meta-analysis or guarantee of a definitive conclusion.",
+      "No diagnosis, prescribing, compound administration or dosing, personal treatment decisions or personalised cognition, recovery, longevity or other human-performance protocols.",
+      "No supplier or batch verification, product efficacy endorsement, research-material eligibility change, credential or private-community entitlement.",
+      "Written-output timing and factual-correction terms must be agreed; ongoing advice and new analysis are not included by default.",
+      "The catalogue checkout flag does not establish operational payment or scheduling; a site purchase does not reserve a calendar slot."
+    ],
+    "process": [
+      "Review the supplied question and source for educational fit before any booking or payment commitment.",
+      "Agree the narrow scope, written-output format, terms and scheduling through an operational owner-approved route.",
+      "Use the existing 60-minute session to examine entity, model, endpoint, findings, limitations and open questions.",
+      "Provide the agreed written question map and next-reading route, making inaccessible or unresolved evidence explicit.",
+      "Handle factual corrections within agreed terms; discuss wider work only through an optional separate quote."
+    ],
+    "bookingCta": "Discuss one research question and confirm scope and availability. The existing price is €200; payment credentials are unavailable in the recovered environment, and payment and scheduling must be confirmed separately."
+  },
+  {
+    "id": "evidence-briefing",
+    "targetAudience": "Science communicators, educators and research-oriented organisations needing a bounded, citation-linked educational briefing for a defined reader or internal research question.",
+    "bestFor": "An agreed evidence question that needs a documented source set and synthesis beyond an individual paper walkthrough.",
+    "prework": [
+      "Define the single evidence question, intended audience and educational or internal research use.",
+      "Supply known references and identify the source, topic and date boundaries to be agreed.",
+      "Describe existing uncertainty and exclusions rather than seeking a predetermined conclusion.",
+      "Identify the person approving scope, quote and review, and confirm permission to use any non-public materials.",
+      "Agree the search or review approach, source budget, meetings, revision boundaries and delivery format before commitment."
+    ],
+    "outcomes": [
+      "A dated source map documenting included references, search or review boundaries and unavailable material.",
+      "An evidence table preserving study type, entity relationship, reported finding and limitation together.",
+      "A written synthesis distinguishing supported statements, uncertainty and unanswered questions without implying exhaustive coverage.",
+      "The existing decision session focused on educational interpretation or an internal research workflow, with a written next-reading or research-question map."
+    ],
+    "scopeLimits": [
+      "The starting price is indicative; the agreed question, source burden, meetings and revisions determine the final quote.",
+      "Additional questions, broader landscapes, changing source sets and additional review rounds require a scope change.",
+      "No formal systematic review, meta-analysis, clinical decision recommendation, trial-design sign-off or legal or regulatory opinion unless an entirely separate appropriate service is established.",
+      "No diagnosis, prescribing, compound administration or dosing, personal human-performance protocols or guaranteed conclusion.",
+      "Literature citations do not authenticate suppliers, verify batches, establish product safety or efficacy, or change research-material eligibility.",
+      "Timing and acceptance criteria must be agreed rather than inferred from catalogue duration labels."
+    ],
+    "process": [
+      "Qualify the educational question, intended use, source permissions and reviewer feasibility.",
+      "Agree a statement of work, search or review boundaries, written outputs, acceptance criteria, timing and final quote.",
+      "Map the agreed sources and record entity, model, endpoint, finding, limitation and missing evidence.",
+      "Produce a traceable original synthesis and review it against the agreed source and method requirements.",
+      "Deliver the briefing and educational decision session; treat additional research as separately quoted work."
+    ],
+    "bookingCta": "Discuss briefing scope. The existing starting price remains From €850; agree the question, timing and final quote before paying."
+  },
+  {
+    "id": "ai-workflow-sprint",
+    "targetAudience": "Bioscience, research-content and knowledge-work teams with an owned document-heavy task, permitted example data and people available for human review.",
+    "bestFor": "Evaluating one bounded research-document workflow with a documented baseline, citation checks, explicit failure criteria and an agreed human-reviewed handoff.",
+    "prework": [
+      "Name the workflow owner, intended users and the single task to be evaluated.",
+      "Describe the current process and supply baseline examples or measurements where available.",
+      "Provide authorised, non-sensitive sample inputs and confirm data permissions and confidentiality requirements.",
+      "Identify human reviewers, acceptable outputs and failure or escalation criteria.",
+      "Agree the proof-of-concept artifact, evaluation approach, tool constraints, exclusions and any separately authorised implementation work."
+    ],
+    "outcomes": [
+      "A written baseline and task specification recording the workflow, source boundaries and review responsibilities.",
+      "A bounded proof-of-concept specification or agreed prototype artifact, subject to explicit authorisation and actual delivery capability.",
+      "An evaluation set, rubric and results record including failures, unsupported claims and citation-verification checks.",
+      "A reusable SOP and governance handoff covering access boundaries, human review, escalation and further implementation needs."
+    ],
+    "scopeLimits": [
+      "One agreed document-heavy task; additional workflows, integrations or datasets require separate scope and permission.",
+      "No guarantee of accuracy, time savings, cost reduction, clinical effectiveness or production readiness.",
+      "No clinical decision system, diagnosis, prescribing, compound administration or dosing, or personalised human-performance advice.",
+      "No default ingestion of patient records, private Discord posts or unauthorised confidential material.",
+      "Production deployment, hosting, API connections, continuous monitoring, unlimited model tuning and ongoing support are not included by default.",
+      "Tool costs, reviewer availability, acceptance criteria and timing must be agreed in the final quote."
+    ],
+    "process": [
+      "Qualify workflow ownership, data permissions, reviewer capability and fit for a bounded educational or research workflow.",
+      "Agree the task, baseline, evaluation criteria, deliverables, timing, permissions and final quote.",
+      "Document the baseline and prepare the agreed proof-of-concept specification or explicitly authorised artifact.",
+      "Evaluate against the agreed rubric with human review, source checks and an explicit failure record.",
+      "Deliver the SOP and governance handoff; quote broader implementation or continued support separately if appropriate."
+    ],
+    "bookingCta": "Discuss one workflow and its evaluation scope. The existing starting price remains From €2,800; agree permissions, timing and the final quote before paying."
+  },
+  {
+    "id": "bioscience-ai-workshop",
+    "targetAudience": "Bioscience, research-content and educational teams seeking a shared approach to search, source evaluation, prompting, retrieval-augmented generation and safe human-reviewed adoption.",
+    "bestFor": "The existing half-day team working session around one approved case, with reusable materials for evidence checking and non-clinical AI workflow practice.",
+    "prework": [
+      "Name the team sponsor and describe the shared learning objective and intended use.",
+      "Identify participant needs, familiarity with the tools and delivery format to be agreed.",
+      "Supply one approved team case and authorised, non-sensitive example documents.",
+      "Identify current search or source-checking difficulties and the methods the team wants to practise.",
+      "Agree participant scope, facilitator feasibility, customisation, tool access, exclusions and any travel or external costs before quoting."
+    ],
+    "outcomes": [
+      "A case workbook recording the team's agreed research-literacy or document-workflow exercise.",
+      "A reusable SOP for source evaluation, prompting, citation verification and human review.",
+      "A quality rubric distinguishing traceable outputs from unsupported claims and model failures.",
+      "A written team adoption and next-action checklist, with optional separately quoted workflow evaluation where appropriate."
+    ],
+    "scopeLimits": [
+      "An agreed half-day team workshop and approved case; participant scope and facilitator coverage require confirmation.",
+      "Additional cohorts, extensive bespoke research, travel, software costs and implementation work require explicit scope.",
+      "Attendance is not a credential or certification and does not guarantee competence, accuracy, productivity or effectiveness.",
+      "No diagnosis, prescribing, compound administration or dosing, clinical decision support or personalised human-performance protocols.",
+      "No patient records, private-community harvesting or unauthorised data use.",
+      "No default system deployment, continuous support or entitlement to external community access."
+    ],
+    "process": [
+      "Qualify the sponsor, educational objective, participant needs, case permissions and facilitator feasibility.",
+      "Agree the team scope, learning exercise, materials, timing, exclusions and final quote.",
+      "Prepare the approved case and reusable source-evaluation and quality-checking materials.",
+      "Run the half-day working session with source checks, failure analysis and human-review practice.",
+      "Deliver the agreed workbook, SOP, rubric and action checklist; discuss a sprint only if a concrete owned workflow warrants one."
+    ],
+    "bookingCta": "Discuss the team case and workshop scope. The existing starting price remains From €1,200; agree participants, timing and the final quote before paying."
+  }
+]

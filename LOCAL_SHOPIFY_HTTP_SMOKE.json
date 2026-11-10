@@ -1,0 +1,29 @@
+{
+  "scope": "locked-channel local session only; no cart/order/payment created",
+  "passed": 5,
+  "checks": [
+    {
+      "case": "selected provider and unimplemented account linkage",
+      "http": 200
+    },
+    {
+      "case": "real locked-channel catalogue unavailable",
+      "http": 200,
+      "status": "unavailable"
+    },
+    {
+      "case": "no invented guest cart or checkout",
+      "http": 200
+    },
+    {
+      "case": "reject foreign-origin mutation",
+      "http": 403
+    },
+    {
+      "case": "reject foreign-origin checkout",
+      "http": 403
+    }
+  ],
+  "liveCartVerified": false,
+  "published": false
+}

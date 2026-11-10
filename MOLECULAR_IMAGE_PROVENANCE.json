@@ -1,0 +1,151 @@
+{
+  "scope": "11 targeted names; unique CID and exact normalized synonym required; no inferred blend/component identity",
+  "results": [
+    {
+      "family": "tirzepatide",
+      "query": "tirzepatide",
+      "accessDate": "2026-11-08",
+      "endpoints": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tirzepatide/cids/JSON"
+      ],
+      "status": "skipped",
+      "returnedCount": 5,
+      "reason": "No unique CID; refusing ambiguous selection"
+    },
+    {
+      "family": "semaglutide",
+      "query": "semaglutide",
+      "accessDate": "2026-11-08",
+      "endpoints": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/semaglutide/cids/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/56843331/synonyms/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/56843331/PNG?image_size=300x300"
+      ],
+      "status": "retrieved, unique name/CID match",
+      "returnedCount": 1,
+      "cid": 56843331,
+      "asset": "semaglutide-structure.png"
+    },
+    {
+      "family": "ghk-cu",
+      "query": "GHK-Cu",
+      "accessDate": "2026-11-08",
+      "endpoints": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/GHK-Cu/cids/JSON"
+      ],
+      "status": "skipped",
+      "returnedCount": 6,
+      "reason": "No unique CID; refusing ambiguous selection"
+    },
+    {
+      "family": "tesamorelin",
+      "query": "tesamorelin",
+      "accessDate": "2026-11-08",
+      "endpoints": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tesamorelin/cids/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16137828/synonyms/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16137828/PNG?image_size=300x300"
+      ],
+      "status": "retrieved, unique name/CID match",
+      "returnedCount": 1,
+      "cid": 16137828,
+      "asset": "tesamorelin-structure.png"
+    },
+    {
+      "family": "sermorelin",
+      "query": "sermorelin",
+      "accessDate": "2026-11-08",
+      "endpoints": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/sermorelin/cids/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16132413/synonyms/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16132413/PNG?image_size=300x300"
+      ],
+      "status": "retrieved, unique name/CID match",
+      "returnedCount": 1,
+      "cid": 16132413,
+      "asset": "sermorelin-structure.png"
+    },
+    {
+      "family": "mots-c",
+      "query": "MOTS-c",
+      "accessDate": "2026-11-08",
+      "endpoints": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/MOTS-c/cids/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/146675088/synonyms/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/146675088/PNG?image_size=300x300"
+      ],
+      "status": "retrieved, unique name/CID match",
+      "returnedCount": 1,
+      "cid": 146675088,
+      "asset": "mots-c-structure.png"
+    },
+    {
+      "family": "ss31",
+      "query": "elamipretide",
+      "accessDate": "2026-11-08",
+      "endpoints": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/elamipretide/cids/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/11764719/synonyms/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/11764719/PNG?image_size=300x300"
+      ],
+      "status": "retrieved, unique name/CID match",
+      "returnedCount": 1,
+      "cid": 11764719,
+      "asset": "ss31-structure.png"
+    },
+    {
+      "family": "epithalon",
+      "query": "epitalon",
+      "accessDate": "2026-11-08",
+      "endpoints": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/epitalon/cids/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/219042/synonyms/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/219042/PNG?image_size=300x300"
+      ],
+      "status": "retrieved, unique name/CID match",
+      "returnedCount": 1,
+      "cid": 219042,
+      "asset": "epithalon-structure.png"
+    },
+    {
+      "family": "oxytocin",
+      "query": "oxytocin",
+      "accessDate": "2026-11-08",
+      "endpoints": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/oxytocin/cids/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/439302/synonyms/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/439302/PNG?image_size=300x300"
+      ],
+      "status": "retrieved, unique name/CID match",
+      "returnedCount": 1,
+      "cid": 439302,
+      "asset": "oxytocin-structure.png"
+    },
+    {
+      "family": "dsip",
+      "query": "DSIP",
+      "accessDate": "2026-11-08",
+      "endpoints": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/DSIP/cids/JSON"
+      ],
+      "status": "skipped",
+      "returnedCount": 2,
+      "reason": "No unique CID; refusing ambiguous selection"
+    },
+    {
+      "family": "glutathione",
+      "query": "glutathione",
+      "accessDate": "2026-11-08",
+      "endpoints": [
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/glutathione/cids/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/124886/synonyms/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/124886/PNG?image_size=300x300"
+      ],
+      "status": "retrieved, unique name/CID match",
+      "returnedCount": 1,
+      "cid": 124886,
+      "asset": "glutathione-structure.png"
+    }
+  ],
+  "retrieved": 8
+}

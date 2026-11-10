@@ -1,0 +1,152 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Bioupgrade"
+    },
+    {
+      "path": "/research",
+      "title": "Research paper library"
+    },
+    {
+      "path": "/meta",
+      "title": "The Meta"
+    },
+    {
+      "path": "/community",
+      "title": "Research-literacy community"
+    },
+    {
+      "path": "/documentation",
+      "title": "Research documentation standards"
+    },
+    {
+      "path": "/book",
+      "title": "Educational consultation"
+    },
+    {
+      "path": "/products",
+      "title": "Educational services"
+    },
+    {
+      "path": "/shop",
+      "title": "The Bioupgrade Shop"
+    },
+    {
+      "path": "/cart",
+      "title": "Your Shopify cart"
+    },
+    {
+      "path": "/account",
+      "title": "My Signal account"
+    },
+    {
+      "path": "/shop/tirzepatida-10mg-zphc",
+      "title": "Tirzepatida 10mg ZPHC"
+    },
+    {
+      "path": "/shop/tirzepatida-25mg-5x5mg-zphc",
+      "title": "Tirzepatida 25mg (5x5mg) ZPHC"
+    },
+    {
+      "path": "/shop/tirzepatida-30mg",
+      "title": "Tirzepatida 30mg"
+    },
+    {
+      "path": "/shop/tirzepatida-60mg",
+      "title": "Tirzepatida 60mg"
+    },
+    {
+      "path": "/shop/tirzepatida-pen-10mg",
+      "title": "Tirzepatida pen 10mg"
+    },
+    {
+      "path": "/shop/tirzepatida-pen-30mg",
+      "title": "Tirzepatida pen 30mg"
+    },
+    {
+      "path": "/shop/pen-tirzepatida-30mg-zphc",
+      "title": "Pen Tirzepatida 30mg ZPHC"
+    },
+    {
+      "path": "/shop/tirzepatida-pen-60mg",
+      "title": "Tirzepatida pen 60mg"
+    },
+    {
+      "path": "/shop/pen-semaglutida-6mg-zphc",
+      "title": "Pen Semaglutida 6mg ZPHC"
+    },
+    {
+      "path": "/shop/hgh-frag-10mg-evopep",
+      "title": "HGH Frag 10mg EVOPEP"
+    },
+    {
+      "path": "/shop/klow-80mg",
+      "title": "Klow 80mg"
+    },
+    {
+      "path": "/shop/glow-70mg",
+      "title": "Glow 70mg"
+    },
+    {
+      "path": "/shop/ghk-cu-100mg",
+      "title": "GHK-Cu 100mg"
+    },
+    {
+      "path": "/shop/ghk-cu-100mg-zphc",
+      "title": "GHK-Cu 100mg ZPHC"
+    },
+    {
+      "path": "/shop/ghk-cu-100mg-evopep",
+      "title": "GHK-Cu 100mg EVOPEP"
+    },
+    {
+      "path": "/shop/ghk-cu-200mg-zphc",
+      "title": "GHK-Cu 200mg ZPHC"
+    },
+    {
+      "path": "/shop/tesamorelin-10mg",
+      "title": "Tesamorelin 10mg"
+    },
+    {
+      "path": "/shop/ipamorelin-5mg-cjc-s-dac-5mg",
+      "title": "Ipamorelin 5mg + CJC s/dac 5mg"
+    },
+    {
+      "path": "/shop/sermorelin-15mg",
+      "title": "Sermorelin 15mg"
+    },
+    {
+      "path": "/shop/wolverine-stack-bpc-157-10mg-tb-500-10mg",
+      "title": "Wolverine Stack (BPC-157 10mg + TB-500 10mg)"
+    },
+    {
+      "path": "/shop/wolverine-stack-bpc-5mg-tb-500-5mg-zphc",
+      "title": "Wolverine Stack (BPC 5mg + TB-500 5mg) ZPHC"
+    },
+    {
+      "path": "/shop/mots-c-40mg",
+      "title": "MOTS-c 40mg"
+    },
+    {
+      "path": "/shop/ss31-30mg",
+      "title": "SS31 30mg"
+    },
+    {
+      "path": "/shop/epithalon-10mg",
+      "title": "Epithalon 10mg"
+    },
+    {
+      "path": "/shop/oxytocin-10mg",
+      "title": "Oxytocin 10mg"
+    },
+    {
+      "path": "/shop/dsip-10mg",
+      "title": "DSIP 10mg"
+    },
+    {
+      "path": "/shop/glutationa-600mg-zphc",
+      "title": "Glutationa 600mg ZPHC"
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+[
+  {
+    "id": "tirzepatide",
+    "name": "Tirzepatide / Tirzepatida (including labelled pens and ZPHC variants)",
+    "topic": "Dual incretin-receptor pharmacology and translational metabolic research",
+    "mechanisticSummary": "Tirzepatide, also designated LY3298176, is a single peptide agonist of the glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptors. Primary experiments show unequal receptor activity and GLP-1-receptor signaling biased toward cyclic AMP generation over beta-arrestin recruitment, with reduced receptor internalization relative to native GLP-1.",
+    "evidenceSummary": "The selected primary papers span receptor-expressing cell assays, mouse experiments and a randomized, double-blind, placebo-controlled phase 1 human study. They establish the named compound's dual-receptor pharmacology and characterize early pharmacokinetic, tolerability and metabolic responses. They do not study Bioupgrade catalogue products or verify labelled pens or ZPHC variants.",
+    "limitation": "Cell and mouse findings cannot establish human outcomes. The cited human study was small and short, with safety and tolerability as its primary objective; gastrointestinal adverse events occurred. Neither paper establishes any supplied product's identity, purity, quality, manufacturer approval or expected buyer outcomes.",
+    "productCopy": "For researchers examining incretin-receptor signaling, this catalogue family connects the tirzepatide name with primary literature on dual GIP/GLP-1 agonism. Explore mechanistic experiments alongside early translational evidence, with study limitations kept visible. Labelled pens and ZPHC variants remain catalogue descriptors: the cited papers concern the named research compound, not verification of a supplier's formulation or batch.",
+    "evidenceLevel": "Mixed evidence",
+    "papers": [
+      {
+        "title": "Tirzepatide is an imbalanced and biased dual GIP and GLP-1 receptor agonist",
+        "authors": "Willard FS, Douros JD, Gabe MB, et al.",
+        "year": 2020,
+        "journal": "JCI Insight",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32730231/",
+        "doi": "10.1172/jci.insight.140532",
+        "pmid": "32730231",
+        "studyType": "Primary preclinical pharmacology: receptor-expressing cell assays, ex vivo mouse pancreatic islets and modeled receptor occupancy",
+        "finding": "Tirzepatide showed unequal GIP/GLP-1 receptor engagement and GLP-1-receptor signaling biased toward cyclic AMP rather than beta-arrestin recruitment, alongside weaker GLP-1-receptor internalization than native GLP-1. The paper explicitly identifies tirzepatide as LY3298176.",
+        "limitation": "Signaling and islet experiments are model-dependent, and modeled receptor occupancy is not direct measurement in human tissues. These mechanistic results do not establish clinical outcomes or characterize any supplied pen, ZPHC variant or batch.",
+        "relationship": "named compound"
+      },
+      {
+        "title": "LY3298176, a novel dual GIP and GLP-1 receptor agonist for the treatment of type 2 diabetes mellitus: From discovery to clinical proof of concept",
+        "authors": "Coskun T, Sloop KW, Loghin C, et al.",
+        "year": 2018,
+        "journal": "Molecular Metabolism",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6308032/",
+        "doi": "10.1016/j.molmet.2018.09.009",
+        "pmid": "30473097",
+        "studyType": "Primary translational study: in vitro assays, mouse studies and randomized, double-blind, placebo-controlled phase 1 human trial",
+        "finding": "LY3298176 activated both incretin receptors in cell assays and produced receptor-dependent glucose responses in mice. Across the human trial, 142 participants received study treatment; investigators characterized pharmacokinetics, tolerability and metabolic responses, including fasting-glucose differences in the type 2 diabetes cohort.",
+        "limitation": "Repeated-treatment cohorts were followed for four weeks, and sample size was not based on statistical inference. Safety and tolerability were the primary objective, with gastrointestinal adverse events reported. The investigated LY3298176 material is not evidence for catalogue pen or ZPHC product equivalence.",
+        "relationship": "named compound"
+      }
+    ],
+    "sourceUrls": [
+      "https://pubmed.ncbi.nlm.nih.gov/32730231/?dopt=Abstract",
+      "https://insight.jci.org/articles/view/140532",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6308032/",
+      "https://pubmed.ncbi.nlm.nih.gov/30473097/"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/tirzepatide.json"
+  },
+  {
+    "id": "semaglutide",
+    "name": "Semaglutide / Semaglutida — labelled 6 mg ZPHC pen",
+    "topic": "GLP-1 receptor signalling, peptide engineering and interpretation of human physiology research",
+    "mechanisticSummary": "Semaglutide is an acylated glucagon-like peptide-1 (GLP-1) analogue that activates GLP-1 receptors. Its amino-acid substitutions and lysine-linked side chain were developed to increase resistance to metabolic degradation and albumin binding, prolonging exposure. These properties describe the research entity, not a verified property of the listed pen.",
+    "evidenceSummary": "A primary discovery study documents semaglutide's molecular engineering, receptor activity and preclinical pharmacokinetics. A separate randomized human physiology trial examined appetite, meal energy intake and gastric emptying in 72 adults with obesity. Both papers concern the named compound; neither establishes equivalence with the catalogue presentation.",
+    "limitation": "The ZPHC label and stated 6 mg content are catalogue descriptors, not independently verified analytical findings. Published semaglutide studies do not establish this pen's identity, purity, quality, manufacturer approval or expected buyer outcomes. The human study was short, single-centre and sponsor-funded, with an indirect gastric-emptying measure and a selected participant population.",
+    "productCopy": "For rigorous researchers exploring GLP-1 signalling and peptide design, this catalogue entry pairs the labelled Semaglutide / Semaglutida 6 mg ZPHC pen with traceable primary literature. Read the molecular engineering and human physiology studies alongside their methods and limitations. The references concern semaglutide as a research entity; they do not authenticate the listed pen or predict outcomes from its use.",
+    "evidenceLevel": "Mixed evidence",
+    "papers": [
+      {
+        "title": "Discovery of the Once-Weekly Glucagon-Like Peptide-1 (GLP-1) Analogue Semaglutide.",
+        "authors": "Jesper Lau; Paw Bloch; Lauge Schäffer; Ingrid Pettersson; Jane Spetzler; Jacob Kofoed; Kjeld Madsen; Lotte Bjerre Knudsen; James McGuire; Dorte Bjerre Steensgaard; Holger Martin Strauss; Dorte X Gram; Sanne Møller Knudsen; Flemming Seier Nielsen; Peter Thygesen; Steffen Reedtz-Runge; Thomas Kruse",
+        "year": 2015,
+        "journal": "Journal of Medicinal Chemistry",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26308095/",
+        "doi": "10.1021/acs.jmedchem.5b00726",
+        "pmid": "26308095",
+        "studyType": "Primary medicinal-chemistry discovery study with receptor-binding assays and preclinical pharmacokinetic experiments",
+        "finding": "The investigators selected semaglutide through structure–activity work on GLP-1 analogues. It incorporates Aib8 and Arg34 substitutions and derivatization at lysine 26, with increased albumin affinity and prolonged exposure demonstrated in mini-pigs.",
+        "limitation": "Molecular design and animal pharmacokinetic results are not human outcome evidence and do not characterize the labelled ZPHC pen or establish its equivalence to study materials.",
+        "relationship": "named compound"
+      },
+      {
+        "title": "The effect of semaglutide 2.4 mg once weekly on energy intake, appetite, control of eating, and gastric emptying in adults with obesity.",
+        "authors": "Martin Friedrichsen; Astrid Breitschaft; Sayeh Tadayon; Alicja Wizert; Dorthe Skovgaard",
+        "year": 2021,
+        "journal": "Diabetes, Obesity and Metabolism",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33269530/",
+        "doi": "10.1111/dom.14280",
+        "pmid": "33269530",
+        "studyType": "Single-centre, randomized, double-blind, placebo-controlled, parallel-group phase 1 human physiology trial; 72 adults with obesity; 20 weeks",
+        "finding": "Within this trial, semaglutide was associated with lower measured lunch energy intake and differences in participant-reported appetite compared with placebo. There was no evidence of delayed gastric emptying at week 20 using the indirect paracetamol-absorption assessment.",
+        "limitation": "The study involved a selected population, limited duration and indirect gastric-emptying measurement. It was funded by Novo Nordisk and several authors were company employees. Its findings cannot be transferred to the labelled ZPHC pen or interpreted as buyer outcome predictions.",
+        "relationship": "named compound"
+      }
+    ],
+    "sourceUrls": [
+      "https://pubmed.ncbi.nlm.nih.gov/26308095/",
+      "https://pubmed.ncbi.nlm.nih.gov/33269530/",
+      "https://dom-pubs.onlinelibrary.wiley.com/doi/10.1111/dom.14280",
+      "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=26308095,33269530&retmode=xml"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/semaglutide.json"
+  },
+  {
+    "id": "hgh-fragment",
+    "name": "HGH Frag 10mg EVOPEP",
+    "topic": "Growth hormone fragment identity and research attribution",
+    "mechanisticSummary": "The catalogue label suggests a growth hormone fragment, but no exact peptide sequence is provided. A molecular mechanism cannot be assigned to this listed entity. It should not be equated with AOD9604 or any specific residue-defined growth hormone fragment.",
+    "evidenceSummary": "The inspected journal sources examine explicitly defined research entities: Tyr-hGH177–191 (AOD9604) in nonclinical toxicology and pharmacokinetic studies, and a sequence-specified fragment in computational and cell-culture nanoparticle experiments. Neither establishes the identity of HGH Frag 10mg EVOPEP. No papers are attributed to this catalogue entry.",
+    "limitation": "Exact sequence, residue boundaries and structural modifications are unspecified. The name and stated amount do not establish molecular identity. Related-fragment literature cannot substantiate this supplied product’s mechanism, purity, quality or expected outcomes.",
+    "productCopy": "For rigorous researchers, HGH Frag 10mg EVOPEP is presented with its molecular identity unresolved. This entry separates a catalogue label from sequence-defined growth hormone fragment research. Without an exact sequence and structural specification, studies of AOD9604 or other fragments cannot be assigned to this material. No product-specific scientific claims are made.",
+    "evidenceLevel": "Identity unresolved",
+    "papers": [],
+    "sourceUrls": [
+      "https://www.jofem.org/index.php/jofem/article/view/213/278",
+      "https://www.tandfonline.com/doi/abs/10.2147/DDDT.S367586"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/hgh-fragment.json"
+  },
+  {
+    "id": "klow",
+    "name": "Klow 80mg",
+    "topic": "Undefined blend identity and evidence attribution",
+    "mechanisticSummary": "Klow is a catalogue name accompanied by an 80mg mass label, but its constituents, molecular identities and proportions have not been provided. No molecular target or mechanism can therefore be assigned to the listed entity.",
+    "evidenceSummary": "No primary paper could be verified as studying the exact listed Klow 80mg formulation. The PubMed search returned unrelated matches rather than a defined blend. This finding does not prove that relevant research is absent; it means an exact scientific linkage has not been established.",
+    "limitation": "Reseller descriptions cannot resolve this catalogue entry's composition. Studies of presumed ingredients must not be attributed to an undefined blend. The mass label alone establishes neither formulation identity nor supplied-product purity, quality or expected outcomes.",
+    "productCopy": "For rigorous researchers, Klow 80mg is an identity-first catalogue entry. The supplied name and mass label do not define a scientific formulation. Bioupgrade therefore leaves its composition and mechanism unresolved and links no papers to this product. A documented formulation would be needed before component-specific literature or blend-level evidence could be assessed.",
+    "evidenceLevel": "Identity unresolved",
+    "papers": [],
+    "sourceUrls": ["https://pubmed.ncbi.nlm.nih.gov/?term=Klow+peptide"],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/klow.json"
+  },
+  {
+    "id": "glow",
+    "name": "Glow 70mg",
+    "topic": "Undefined research blend: identity and evidence linkage",
+    "mechanisticSummary": "No listed-entity mechanism can be assigned. Glow is an undefined catalogue blend name here, and the 70mg label alone does not establish constituent identities or proportions.",
+    "evidenceSummary": "No primary paper establishing an exact scientific linkage to the unspecified Glow 70mg blend was verified. Retrieved studies of other peptide formulations do not identify this catalogue item and are not included as supporting papers.",
+    "limitation": "Composition was not provided. No components are inferred from reseller descriptions, and component studies cannot establish evidence for this undefined blend. Literature cannot verify supplied-product identity, purity, quality or expected buyer outcomes.",
+    "productCopy": "Glow 70mg is listed as a blend with composition not provided. For rigorous researchers, this entry keeps identification separate from interpretation: no constituent mechanism or study is attributed to the catalogue name. Its research-literacy value is transparent uncertainty, with literature mapping deferred until constituent identities and proportions are documented.",
+    "evidenceLevel": "Identity unresolved",
+    "papers": [],
+    "sourceUrls": [
+      "https://pubmed.ncbi.nlm.nih.gov/?term=Glow+peptide+blend",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8211334/"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/glow.json"
+  },
+  {
+    "id": "ghk-cu",
+    "name": "GHK-Cu copper tripeptide — 100 mg / 200 mg supplier variants",
+    "topic": "Copper–peptide complexes and extracellular-matrix biology",
+    "mechanisticSummary": "GHK-Cu is the copper(II) complex of glycyl-L-histidyl-L-lysine. In a rat wound-chamber study, the named complex increased type I and III collagen messenger RNA and extracellular-matrix accumulation. These observations support investigation of matrix regulation; they do not establish a single molecular target or a complete causal mechanism.",
+    "evidenceSummary": "One verified primary animal study compared GHK-Cu with saline in implanted wound chambers. It reported increased collagen and glycosaminoglycan content, alongside increased tissue protein and DNA. This is direct preclinical evidence for the named complex, not a study of the listed supplier variants.",
+    "limitation": "A rat wound-chamber model does not establish human efficacy or safety. The cited paper does not verify the identity, purity, stability, manufacturer status or analytical quality of any supplied 100 mg or 200 mg product. Pack amounts are catalogue labels, not study-derived recommendations.",
+    "productCopy": "For researchers examining copper–peptide chemistry and extracellular-matrix biology, this catalogue family groups GHK-Cu supplier variants labelled 100 mg and 200 mg. The linked study provides a defined animal-model reference for the named complex. Use the evidence panel to separate experimental observations from catalogue specifications; neither pack size nor publication linkage establishes a supplied batch’s identity or analytical quality.",
+    "evidenceLevel": "Preclinical research",
+    "papers": [
+      {
+        "title": "In vivo stimulation of connective tissue accumulation by the tripeptide-copper complex glycyl-L-histidyl-L-lysine-Cu2+ in rat experimental wounds.",
+        "authors": "F X Maquart; G Bellon; B Chaqour; J Wegrowski; L M Patt; R E Trachy; J C Monboisse; F Chastang; P Birembaut; P Gillery",
+        "year": 1993,
+        "journal": "The Journal of Clinical Investigation",
+        "url": "https://www.jci.org/articles/view/116842",
+        "doi": "10.1172/JCI116842",
+        "pmid": "8227353",
+        "studyType": "Controlled in vivo rat wound-chamber experiment",
+        "finding": "GHK-Cu increased extracellular-matrix accumulation, including collagen and glycosaminoglycan content, relative to saline controls. Type I and III collagen messenger RNA increased, while TGF-beta messenger RNA did not.",
+        "limitation": "An implanted rat wound-chamber model measures local experimental tissue responses, not human clinical outcomes. The study does not characterize or validate the catalogue’s supplied products.",
+        "relationship": "named compound"
+      }
+    ],
+    "sourceUrls": [
+      "https://pubmed.ncbi.nlm.nih.gov/8227353/",
+      "https://www.jci.org/articles/view/116842"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/ghk-cu.json"
+  },
+  {
+    "id": "tesamorelin",
+    "name": "Tesamorelin 10mg",
+    "topic": "Growth hormone–releasing hormone signalling and compartment-specific adipose research",
+    "mechanisticSummary": "Tesamorelin is a synthetic analogue of human growth hormone–releasing hormone, GHRH(1–44). Its N-terminal trans-3-hexenoyl modification extends its half-life relative to native GHRH. It stimulates pituitary growth hormone secretion, engaging the downstream insulin-like growth factor 1 (IGF-1) axis.",
+    "evidenceSummary": "A 26-week randomized, placebo-controlled trial in 412 adults with HIV-associated abdominal fat accumulation measured changes in CT-assessed visceral adipose tissue and metabolic markers. Visceral adipose tissue decreased in the tesamorelin group while increasing in the placebo group; circulating IGF-1 also increased. These are findings for the named research compound in a defined clinical population.",
+    "limitation": "The trial was predominantly male and short-term; long-term clinical outcomes remained unknown. More tesamorelin recipients discontinued because of adverse events. Findings do not establish general weight-management or performance effects, nor the identity, purity or quality of this catalogue item. The 10mg catalogue quantity does not establish formulation equivalence and is not a use instruction.",
+    "productCopy": "For rigorous researchers examining the growth hormone–releasing hormone axis, Tesamorelin 10mg pairs a clearly named peptide entity with a focused reading pathway. Explore primary human research on endocrine signalling and compartment-specific adipose measurements, with study populations and limitations kept visible. Published findings concern the research compound, not verification of this catalogue item or predictions for individual users.",
+    "evidenceLevel": "Human research",
+    "papers": [
+      {
+        "title": "Metabolic effects of a growth hormone-releasing factor in patients with HIV",
+        "authors": "Falutz J, et al.",
+        "year": 2007,
+        "journal": "New England Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18057338/",
+        "doi": "10.1056/NEJMoa072375",
+        "pmid": "18057338",
+        "studyType": "Multicentre, randomized, double-blind, placebo-controlled human trial; 412 participants with HIV-associated abdominal fat accumulation; 26-week primary phase.",
+        "finding": "CT-assessed visceral adipose tissue changed by −15.2% with tesamorelin versus +5.0% with placebo; IGF-1 changed by +81.0% versus −5.0% (both comparisons P<0.001). These measurements describe the investigational tesamorelin entity, not the supplied catalogue product.",
+        "limitation": "Participants were 86% male and had a specific HIV-associated phenotype. The primary phase did not establish long-term cardiovascular outcomes or safety. Adverse-event-related discontinuations were more frequent with tesamorelin; the study was industry-funded. No supplier-product testing was performed.",
+        "relationship": "named compound"
+      }
+    ],
+    "sourceUrls": [
+      "https://pubmed.ncbi.nlm.nih.gov/18057338/",
+      "https://www.nejm.org/doi/full/10.1056/NEJMoa072375"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/tesamorelin.json"
+  },
+  {
+    "id": "ipamorelin-cjc",
+    "name": "Ipamorelin 5mg + CJC s/dac 5mg blend",
+    "topic": "Component-level growth-hormone secretagogue research and no-DAC identity clarification",
+    "mechanisticSummary": "Ipamorelin is a pentapeptide growth-hormone secretagogue. Antagonist experiments in rat pituitary cells support action through a GHRP-like receptor rather than the GHRH receptor. The catalogue's 'CJC s/dac' designation indicates no DAC but does not establish an exact molecular sequence. Published CJC-1295 incorporates an albumin-binding modification; its mechanism and persistence cannot be transferred to an unspecified no-DAC component.",
+    "evidenceSummary": "The selected primary paper characterizes ipamorelin in rat pituitary cells, rats and swine. It supports component-level endocrine pharmacology, not this combination. The human long-acting CJC-1295 study concerns a different, DAC-containing entity and is not presented as evidence for the listed blend.",
+    "limitation": "No verified study of this exact blend is included. The CJC no-DAC component remains insufficiently specified for an exact literature match. Animal hormone findings do not establish human benefits or combination safety. These sources do not verify the supplied product's identity, purity, quality or manufacturer claims.",
+    "productCopy": "A two-name catalogue entry for researchers examining peptide identity and growth-hormone signalling. Ipamorelin has direct preclinical characterization; the CJC s/dac label requires sequence-level clarification before matching it to published work. Explore the component evidence with a clear boundary: neither the exact blend nor the supplied material is validated by these papers.",
+    "evidenceLevel": "Preclinical research",
+    "papers": [
+      {
+        "title": "Ipamorelin, the first selective growth hormone secretagogue",
+        "authors": "K Raun, B S Hansen, N L Johansen, H Thogersen, K Madsen, M Ankersen, P H Andersen",
+        "year": 1998,
+        "journal": "European Journal of Endocrinology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9849822/",
+        "doi": "10.1530/eje.0.1390552",
+        "pmid": "9849822",
+        "studyType": "Preclinical pharmacology: primary rat pituitary-cell experiments and in vivo rat and swine studies",
+        "finding": "Ipamorelin stimulated growth-hormone release through a GHRP-like receptor in antagonist profiling. In swine, ACTH and cortisol responses were not significantly different from those following GHRH stimulation, supporting selective hormone release within the tested models.",
+        "limitation": "The study examined ipamorelin alone, not an ipamorelin/CJC blend. Its animal and cell findings do not establish human clinical outcomes, human selectivity or the identity and quality of catalogue material.",
+        "relationship": "component only"
+      }
+    ],
+    "sourceUrls": [
+      "https://pubmed.ncbi.nlm.nih.gov/9849822/",
+      "https://academic.oup.com/ejendo/article-abstract/139/5/552/6748390",
+      "https://pubmed.ncbi.nlm.nih.gov/15817669/",
+      "https://pubmed.ncbi.nlm.nih.gov/16352683/"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/ipamorelin-cjc.json"
+  },
+  {
+    "id": "sermorelin",
+    "name": "Sermorelin 15mg",
+    "topic": "GHRH signalling and pituitary growth-hormone secretion",
+    "mechanisticSummary": "Sermorelin is synthetic GHRH(1–29)-NH2, an amidated 29-residue analogue of human growth hormone-releasing hormone. It stimulates growth hormone secretion from the anterior pituitary, allowing researchers to examine GHRH-dependent endocrine responses rather than exposure to growth hormone itself.",
+    "evidenceSummary": "A primary human study examined peptide pharmacokinetics and growth-hormone responses in 30 healthy men aged 19–43. Growth hormone increased after exposure even though the peptide was rapidly eliminated. The journal explicitly identifies the studied GHRH(1–29)-NH2 as sermorelin.",
+    "limitation": "This small study concerns short-term hormone measurements in healthy men, not general performance, body-composition changes or durable clinical outcomes. It does not establish long-term safety or applicability to other populations. The published research does not verify the identity, purity, quality or nominal 15mg content of any supplied catalogue material.",
+    "productCopy": "A catalogue entry for researchers examining GHRH-dependent endocrine signalling. Sermorelin’s GHRH(1–29)-NH2 identity connects this page to primary human research on pituitary growth-hormone responses and peptide pharmacokinetics. Explore the original evidence, distinguish hormonal measurements from clinical outcomes, and keep the catalogue’s nominal 15mg presentation separate from experimental protocols and independent material verification.",
+    "evidenceLevel": "Human research",
+    "papers": [
+      {
+        "title": "Pharmacokinetics of growth hormone-releasing hormone(1-29)-NH2 and stimulation of growth hormone secretion in healthy subjects after intravenous or intranasal administration.",
+        "authors": "Wilton P, Chardet Y, Danielson K, Widlund L, Gunnarsson R",
+        "year": 1993,
+        "journal": "Acta Paediatrica Supplement, 388:10–15",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1651-2227.1993.tb12827.x",
+        "doi": "10.1111/j.1651-2227.1993.tb12827.x",
+        "pmid": "8329825",
+        "studyType": "Human pharmacokinetic and endocrine-response study in 30 healthy men; indexed as a randomized controlled trial",
+        "finding": "GHRH(1–29)-NH2 elicited growth-hormone release despite rapid peptide elimination. Peptide bioavailability and the endocrine response differed between the studied routes. The journal identifies this peptide as sermorelin.",
+        "limitation": "Small, male-only study focused on hormone responses and pharmacokinetics. It does not establish long-term clinical outcomes, general performance effects or the characteristics of any supplied product.",
+        "relationship": "named compound"
+      }
+    ],
+    "sourceUrls": [
+      "https://onlinelibrary.wiley.com/doi/10.1111/j.1651-2227.1993.tb12827.x",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:8329825%20AND%20SRC:MED&format=json&resultType=core",
+      "https://link.springer.com/article/10.2165/00063030-199912020-00007"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/sermorelin.json"
+  },
+  {
+    "id": "wolverine",
+    "name": "Wolverine Stack",
+    "topic": "Component-level peptide research and molecular identity",
+    "mechanisticSummary": "BPC-157 is a 15-amino-acid research peptide. In rat tendon-derived fibroblasts, increased migration and spreading were associated with F-actin formation and phosphorylation of focal adhesion kinase (FAK) and paxillin; the initiating molecular target remained unresolved. An analytical study identified TB-500 as Ac-LKKTETQ, an acetylated fragment corresponding to thymosin-beta-4 residues 17–23, in the formulation examined. That fragment is not full-length thymosin-beta-4; its biological mechanism was not established by that study.",
+    "evidenceSummary": "The selected evidence comprises a preclinical BPC-157 cell/explant experiment and a TB-500 analytical identity study. Both concern individual components, not the Wolverine combination. Neither paper verifies blend effects, synergy, human outcomes, or this catalogue material.",
+    "limitation": "The family is labelled BPC-157 + TB-500, but the second label says only BPC, which does not establish BPC-157 identity. TB-500 naming also cannot establish fragment versus full-length identity. Sequence and composition remain unverified; these papers cannot substantiate supplied-product purity, quality, or expected buyer outcomes.",
+    "productCopy": "A component-focused entry for researchers who value molecular identity and traceable evidence. Wolverine Stack is labelled BPC-157 + TB-500, while the second label abbreviates BPC. Explore preclinical BPC-157 findings alongside analytical TB-500 literature, with full thymosin-beta-4 kept distinct. The papers inform research literacy; they do not validate this blend or any supplied material.",
+    "evidenceLevel": "Identity unresolved",
+    "papers": [
+      {
+        "title": "The promoting effect of pentadecapeptide BPC 157 on tendon healing involves tendon outgrowth, cell survival, and cell migration",
+        "authors": "Chang CH; Tsai WC; Lin MS; Hsu YH; Pang JH",
+        "year": 2011,
+        "journal": "Journal of Applied Physiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21030672/",
+        "doi": "10.1152/japplphysiol.00945.2010",
+        "pmid": "21030672",
+        "studyType": "Preclinical in vitro and ex vivo study using rat Achilles-tendon fibroblasts and tendon explants",
+        "finding": "BPC-157 increased explant outgrowth, fibroblast migration and spreading, and cell survival under oxidative stress. Increased F-actin formation and FAK/paxillin phosphorylation accompanied these observations. The study did not find a direct increase in cell proliferation.",
+        "limitation": "Rat-derived cells and explants do not establish human clinical effects. Signalling associations did not identify a definitive initiating target. BPC-157 alone was studied, not TB-500 or Wolverine; the abbreviated BPC label cannot independently establish correspondence.",
+        "relationship": "component only"
+      },
+      {
+        "title": "Synthesis and characterization of the N-terminal acetylated 17-23 fragment of thymosin beta 4 identified in TB-500, a product suspected to possess doping potential",
+        "authors": "Esposito S; Deventer K; Goeman J; Van der Eycken J; Van Eenoo P",
+        "year": 2012,
+        "journal": "Drug Testing and Analysis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22962027/",
+        "doi": "10.1002/dta.1402",
+        "pmid": "22962027",
+        "studyType": "Primary analytical chemistry study using HPLC/high-resolution mass spectrometry and peptide synthesis",
+        "finding": "The investigators detected and identified Ac-LKKTETQ, the N-terminal-acetylated 17–23 fragment of human thymosin-beta-4, in the examined TB-500 formulation. They also synthesized the fragment and proposed an analytical detection strategy for plasma and urine.",
+        "limitation": "This was an identity and detection study, not an efficacy or blend study. Identification in the examined formulation does not determine the identity, purity, or quality of this supplier's material. Findings about full-length thymosin-beta-4 cannot automatically be assigned to this fragment.",
+        "relationship": "component only"
+      }
+    ],
+    "sourceUrls": [
+      "https://pubmed.ncbi.nlm.nih.gov/21030672/",
+      "https://pubmed.ncbi.nlm.nih.gov/22962027/",
+      "https://biblio.ugent.be/publication/3128392",
+      "https://www.mdpi.com/1420-3049/19/11/19066"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/wolverine.json"
+  },
+  {
+    "id": "mots-c",
+    "name": "MOTS-c 40mg",
+    "topic": "Mitochondrial-derived peptide signaling and metabolic stress responses",
+    "mechanisticSummary": "MOTS-c is a 16-amino-acid peptide encoded by a short open reading frame within mitochondrial 12S rRNA. Cell experiments link its activity to folate-cycle and purine-pathway changes, accumulation of the metabolic intermediate AICAR, and activation of AMP-activated protein kinase (AMPK). Under metabolic stress, MOTS-c can enter the nucleus and interact with chromatin and stress-responsive transcription factors, including NRF2.",
+    "evidenceSummary": "The selected primary papers establish the research entity through cell experiments and mouse metabolic studies, then investigate AMPK-dependent nuclear translocation in cultured cells. These findings support investigation of mitochondrial signaling and stress-responsive gene regulation, not expected human outcomes from the catalogue product.",
+    "limitation": "The mechanistic evidence selected here is preclinical. Detection of endogenous MOTS-c in human plasma does not establish effects of administered peptide. Cell-line and mouse findings do not establish human safety or efficacy. Neither paper verifies this supplied 40mg product, its purity, quality, or manufacturer.",
+    "productCopy": "For rigorous researchers, this MOTS-c 40mg catalogue entry connects a mitochondrial-derived peptide with primary studies of metabolic signaling and stress-responsive gene regulation. Explore the evidence behind AMPK-associated pathways and mitochondrial-to-nuclear communication, with experimental models and limitations clearly identified. The linked literature concerns the named research entity; it does not authenticate or validate the supplied product.",
+    "evidenceLevel": "Preclinical research",
+    "papers": [
+      {
+        "title": "The mitochondrial-derived peptide MOTS-c promotes metabolic homeostasis and reduces obesity and insulin resistance",
+        "authors": "Changhan Lee; Jennifer Zeng; Brian G. Drew; Tamer Sallam; Alejandro Martin-Montalvo; Junxiang Wan; Su-Jeong Kim; Hemal Mehta; Andrea L. Hevener; Rafael de Cabo; Pinchas Cohen",
+        "year": 2015,
+        "journal": "Cell Metabolism",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25738459/",
+        "doi": "10.1016/j.cmet.2015.02.009",
+        "pmid": "25738459",
+        "studyType": "Primary discovery and mechanistic research using cultured cells and mouse interventions, with endogenous peptide detection in human and rodent plasma",
+        "finding": "Identified the mitochondrial 12S rRNA-encoded 16-amino-acid MOTS-c peptide. Cell metabolomics and perturbation experiments linked folate/purine pathway changes and AICAR accumulation to AMPK activation; mouse experiments examined glucose handling and insulin sensitivity.",
+        "limitation": "Intervention findings came from cells and mice, not a human intervention trial. Endogenous human plasma detection does not demonstrate effects of administered MOTS-c. The study did not test the listed supplier product.",
+        "relationship": "named compound"
+      },
+      {
+        "title": "The Mitochondrial-Encoded Peptide MOTS-c Translocates to the Nucleus to Regulate Nuclear Gene Expression in Response to Metabolic Stress",
+        "authors": "Kyung Hwa Kim; Jyung Mean Son; Bérénice A. Benayoun; Changhan Lee",
+        "year": 2018,
+        "journal": "Cell Metabolism",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29983246/",
+        "doi": "10.1016/j.cmet.2018.06.008",
+        "pmid": "29983246",
+        "studyType": "Primary in vitro mechanistic study using cultured cell lines, imaging, genetic and pharmacological perturbations, chromatin assays and RNA sequencing",
+        "finding": "Metabolic stress triggered AMPK-dependent nuclear translocation of MOTS-c. Nuclear MOTS-c associated with chromatin and NRF2 and altered stress-responsive gene expression; sequence-mutant experiments examined requirements for these activities.",
+        "limitation": "Cell-line experiments do not establish organism-level or human effects. The authors identified primary human cells and tissues as needed for physiological context and left the detailed nuclear gene-regulation mechanism unresolved. The supplied catalogue product was not studied.",
+        "relationship": "named compound"
+      }
+    ],
+    "sourceUrls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4350682/",
+      "https://pubmed.ncbi.nlm.nih.gov/25738459/",
+      "https://pubmed.ncbi.nlm.nih.gov/29983246/",
+      "https://gero.usc.edu/labs/benayounlab/files/2018/07/Kim-2018_MOTSC_nucleus.pdf"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/mots-c.json"
+  },
+  {
+    "id": "ss31",
+    "name": "SS31 30mg / elamipretide",
+    "topic": "Mitochondrial membrane biology and cardiolipin-associated mechanisms",
+    "mechanisticSummary": "Published SS-31 (elamipretide) is a mitochondria-targeting tetrapeptide studied for interactions with cardiolipin in the inner mitochondrial membrane. Biochemical experiments support inhibition of cardiolipin-associated cytochrome c peroxidase activity, a proposed route to preserving mitochondrial cristae under ischemic stress.",
+    "evidenceSummary": "A primary mechanistic study combined biochemical experiments with a rat renal ischemia–reperfusion model. In MMPOWER-3, a phase 3 randomized trial involving 218 participants with primary mitochondrial myopathy, elamipretide did not significantly improve six-minute walking distance or fatigue versus placebo at 24 weeks.",
+    "limitation": "Mechanistic and animal findings do not establish general human benefit. The clinical result is specific to the population and endpoints studied. The supplied 30 mg form, molecular identity, purity and equivalence to research materials have not been independently verified; these papers do not validate the supplier product.",
+    "productCopy": "For rigorous researchers examining mitochondrial biology, this catalogue entry connects the SS-31/elamipretide literature with clearly separated mechanistic and clinical evidence. Explore cardiolipin-associated research alongside a randomized trial that did not meet its primary endpoints. The 30 mg listing is a supplier descriptor, not independent confirmation of molecular form, purity, or equivalence to study materials.",
+    "evidenceLevel": "Mixed evidence",
+    "papers": [
+      {
+        "title": "The Mitochondrial-Targeted Compound SS-31 Re-Energizes Ischemic Mitochondria by Interacting with Cardiolipin",
+        "authors": "Alexander V Birk; Shaoyi Liu; Yi Soong; William Mills; Pradeep Singh; J David Warren; Surya V Seshan; Joel D Pardee; Hazel H Szeto",
+        "year": 2013,
+        "journal": "Journal of the American Society of Nephrology",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3736700/",
+        "doi": "10.1681/ASN.2012121216",
+        "pmid": "23813215",
+        "studyType": "Preclinical biochemical, isolated-mitochondrial and rat renal ischemia–reperfusion study",
+        "finding": "A fluorescent SS-31 analogue supported cardiolipin binding; SS-31 inhibited cytochrome c peroxidase activity and preserved mitochondrial cristae in a rat renal ischemia–reperfusion model.",
+        "limitation": "Mechanistic assays included a labeled analogue. Animal injury-model findings do not establish clinical efficacy or authenticate the listed 30 mg material.",
+        "relationship": "named compound"
+      },
+      {
+        "title": "Efficacy and Safety of Elamipretide in Individuals With Primary Mitochondrial Myopathy: The MMPOWER-3 Randomized Clinical Trial",
+        "authors": "Amel Karaa et al.",
+        "year": 2023,
+        "journal": "Neurology",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382259/",
+        "doi": "10.1212/WNL.0000000000207402",
+        "pmid": "37268435",
+        "studyType": "Phase 3 randomized, double-blind, placebo-controlled trial; 218 participants with genetically confirmed primary mitochondrial myopathy",
+        "finding": "The trial did not meet its primary endpoints: elamipretide did not significantly improve six-minute walking distance or total fatigue compared with placebo at 24 weeks.",
+        "limitation": "Disease-specific, 24-week trial, not a healthy-participant performance study. It evaluated study elamipretide, not the supplied catalogue material.",
+        "relationship": "named compound"
+      }
+    ],
+    "sourceUrls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3736700/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382259/",
+      "https://www.pnas.org/doi/10.1073/pnas.2002250117"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/ss31.json"
+  },
+  {
+    "id": "epithalon",
+    "name": "Epithalon 10mg / Epitalon",
+    "topic": "Defined AEDG tetrapeptide and experimental telomere biology",
+    "mechanisticSummary": "Epithalon, also called Epitalon, is the synthetic tetrapeptide Ala-Glu-Asp-Gly (AEDG). It is distinct from Epithalamin, a bovine pineal-gland polypeptide extract. Cell-culture studies associate AEDG exposure with expression of hTERT, the catalytic telomerase subunit, telomerase activity and telomere-length changes. A newer study also reported alternative lengthening of telomeres (ALT) markers in breast-cancer cell lines; the causal pathway remains incompletely resolved.",
+    "evidenceSummary": "Two primary studies examined the named tetrapeptide in cultured human cells, not human participants. The 2003 study reported telomerase activation and telomere elongation in fetal fibroblasts. The 2025 study reported telomere-related changes in normal and cancer-derived cells, with different associated pathways. Human studies of Epithalamin extracts cannot be transferred to this defined tetrapeptide.",
+    "limitation": "Cellular endpoints do not establish human efficacy, longevity or safety. Telomere-length changes in cancer-derived cells warrant caution in interpretation. The 2025 paper has a published figure correction. These papers do not verify the catalogue product’s identity, analytical content, purity or quality; 10mg is a catalogue designation.",
+    "productCopy": "For rigorous researchers examining cellular ageing, Epithalon offers a clearly defined literature focus: the AEDG tetrapeptide, also known as Epitalon. This 10mg catalogue entry connects that identity to primary cell-culture studies of telomerase and telomere biology. Read the experimental context and its limits carefully, and keep findings about Epithalamin extracts separate from evidence for the tetrapeptide.",
+    "evidenceLevel": "Preclinical research",
+    "papers": [
+      {
+        "title": "Epithalon peptide induces telomerase activity and telomere elongation in human somatic cells",
+        "authors": "V. Kh. Khavinson; I. E. Bondarev; A. A. Butyugov",
+        "year": 2003,
+        "journal": "Bulletin of Experimental Biology and Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12937682/",
+        "doi": "10.1023/A:1025493705728",
+        "pmid": "12937682",
+        "studyType": "Preclinical in vitro experiment in telomerase-negative human fetal fibroblast cultures",
+        "finding": "Reported induction of the telomerase catalytic subunit, telomerase enzymatic activity and telomere elongation after addition of Epithalon to the cultures.",
+        "limitation": "The verified abstract describes cellular findings, not a clinical trial. It does not demonstrate human lifespan extension, clinical benefit or safety, and does not assess the supplied catalogue product.",
+        "relationship": "named compound"
+      },
+      {
+        "title": "Epitalon increases telomere length in human cell lines through telomerase upregulation or ALT activity",
+        "authors": "Sarah Al-dulaimi; Ross Thomas; Sheila Matta; Terry Roberts",
+        "year": 2025,
+        "journal": "Biogerontology",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12411320/",
+        "doi": "10.1007/s10522-025-10315-x",
+        "pmid": "40908429",
+        "studyType": "Preclinical in vitro study of human fibroblast and mammary epithelial cultures and breast-cancer cell lines",
+        "finding": "Reported increased mean telomere length with increased hTERT expression and telomerase activity in normal-cell cultures. In breast-cancer lines, telomere-length changes accompanied ALT markers without a significant increase in telomerase activity.",
+        "limitation": "Culture-based observations cannot establish human benefit or safety. qPCR measures average telomere length rather than individual chromosome ends, and ALT-marker findings do not fully establish causation. A published correction replaced incorrect Figures 1–3 (DOI 10.1007/s10522-025-10326-8). The study does not validate this catalogue product.",
+        "relationship": "named compound"
+      }
+    ],
+    "sourceUrls": [
+      "https://pubmed.ncbi.nlm.nih.gov/12937682/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12411320/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11943447/",
+      "https://link.springer.com/article/10.1007/s10522-025-10326-8"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/epithalon.json"
+  },
+  {
+    "id": "oxytocin",
+    "name": "Oxytocin 10mg",
+    "topic": "Oxytocin receptor signaling and the limits of human social-function research",
+    "mechanisticSummary": "Oxytocin is a neuropeptide that activates the oxytocin receptor (OXTR), a G-protein-coupled receptor. OXTR signaling can recruit Gq/11, phospholipase C and intracellular calcium pathways. Receptor interactions and tissue context influence downstream signaling.",
+    "evidenceSummary": "A 2021 randomized, double-blind, placebo-controlled trial enrolled 290 children and adolescents with autism spectrum disorder. Over 24 weeks, oxytocin showed no significant advantage over placebo on the primary social-withdrawal outcome; secondary social and cognitive outcomes generally did not differ. This is evidence about a specific research question, not general performance enhancement.",
+    "limitation": "The trial used a specific intranasal formulation and pediatric population. Its modified primary scale was not validated, and absorption and brain penetration remained uncertain. The paper does not establish the identity, purity, quality or suitability of this catalogue item, nor predict buyer outcomes. The 10mg label is catalogue information, not a studied product specification.",
+    "productCopy": "Explore Oxytocin 10mg through a research-first lens. This catalogue entry connects the named peptide to oxytocin-receptor signaling and a carefully bounded human evidence base. For rigorous researchers, the emphasis is on study design, formulation differences and measured endpoints—not broad claims about social behavior or performance. Published research does not verify the supplied material.",
+    "evidenceLevel": "Human research",
+    "papers": [
+      {
+        "title": "Intranasal Oxytocin in Children and Adolescents with Autism Spectrum Disorder",
+        "authors": "Linmarie Sikich et al.",
+        "year": 2021,
+        "journal": "New England Journal of Medicine",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9701092/",
+        "doi": "10.1056/NEJMoa2103583",
+        "pmid": "34644471",
+        "studyType": "Multicenter, randomized, double-blind, placebo-controlled phase 2 human trial; 290 participants aged 3–17 years; 24-week follow-up.",
+        "finding": "The between-group difference in change on the modified Social Withdrawal subscale was −0.2 points (95% confidence interval, −1.5 to 1.0; P=0.61). No significant advantage was demonstrated on the primary outcome, and secondary social and cognitive outcomes generally did not differ.",
+        "limitation": "The primary modified scale was not validated. Findings concern the studied formulation, population and endpoints; uncertain absorption and brain penetration limit mechanistic interpretation. This study did not evaluate the supplied 10mg catalogue item or general performance enhancement.",
+        "relationship": "named compound"
+      }
+    ],
+    "sourceUrls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9701092/",
+      "https://pubmed.ncbi.nlm.nih.gov/34644471/",
+      "https://www.nejm.org/doi/full/10.1056/NEJMoa2103583",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9812438/"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/oxytocin.json"
+  },
+  {
+    "id": "dsip",
+    "name": "DSIP 10mg",
+    "topic": "Delta sleep-inducing peptide: sleep-related peptide research and EEG physiology",
+    "mechanisticSummary": "Delta sleep-inducing peptide (DSIP) is the nonapeptide Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu. Its original characterization reported increased delta and spindle electroencephalogram (EEG) activity in rabbits. These observations do not establish a receptor-level mechanism. A 2006 scholarly review highlighted unresolved questions about its endogenous identity and specific receptor.",
+    "evidenceSummary": "The original double-blind rabbit experiment linked synthetic DSIP to EEG changes under specific experimental conditions. A subsequent double-blind, placebo-controlled study in 16 people with chronic insomnia found weak differences in some objective sleep measures, but no improvement in subjective sleep quality; the authors did not consider the results evidence of major therapeutic benefit.",
+    "limitation": "The selected evidence is historical and includes a small, short-term human study. Rabbit EEG changes cannot establish dependable human outcomes. Neither paper tests the supplied DSIP 10mg product or establishes its identity, purity, quality or suitability for human use.",
+    "productCopy": "DSIP 10mg is a catalogue entry for delta sleep-inducing peptide, a nonapeptide studied in sleep and EEG research. For rigorous researchers, its literature offers a case study in separating early experimental signals from reproducible evidence. The cited papers concern research preparations, not this supplied product, and do not validate its quality or predict human outcomes.",
+    "evidenceLevel": "Mixed evidence",
+    "papers": [
+      {
+        "title": "Characterization of a delta-electroencephalogram (-sleep)-inducing peptide.",
+        "authors": "G. A. Schoenenberger; M. Monnier",
+        "year": 1977,
+        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC430668/",
+        "doi": "10.1073/pnas.74.3.1282",
+        "pmid": "265572",
+        "studyType": "Primary peptide characterization and double-blind rabbit EEG experiment; 58 rabbits including controls.",
+        "finding": "The authors reported the DSIP amino-acid sequence and compared synthetic DSIP with fragments and analogues. Only synthetic DSIP significantly and specifically enhanced delta and spindle EEG patterns in this experiment.",
+        "limitation": "An animal experiment with physiological EEG endpoints, not evidence of clinical benefit. It does not characterize any current supplier product.",
+        "relationship": "named compound"
+      },
+      {
+        "title": "Effects of delta sleep-inducing peptide on sleep of chronic insomniac patients: A double-blind study",
+        "authors": "F. Bes; W. Hofman; J. Schuur; C. van Boxtel",
+        "year": 1992,
+        "journal": "Neuropsychobiology",
+        "url": "https://karger.com/nps/article/26/4/193/231036/Effects-of-Delta-Sleep-Inducing-Peptide-on-Sleep",
+        "doi": "10.1159/000118919",
+        "pmid": "1299794",
+        "studyType": "Double-blind, placebo-controlled, matched-pairs parallel-group human study; 16 patients with chronic insomnia.",
+        "finding": "Some objective measures differed from placebo, but the effects were weak and potentially partly explained by incidental placebo-group changes. Subjective sleep quality did not change; the authors concluded that major short-term therapeutic benefit was unlikely.",
+        "limitation": "Small sample and short laboratory observation period; inconsistent endpoints and possible placebo-group effects limit interpretation. This was not a study of the supplied catalogue product.",
+        "relationship": "named compound"
+      }
+    ],
+    "sourceUrls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC430668/",
+      "https://karger.com/nps/article/26/4/193/231036/Effects-of-Delta-Sleep-Inducing-Peptide-on-Sleep",
+      "https://pure.amsterdamumc.nl/en/publications/effects-of-delta-sleep-inducing-peptide-on-sleep-of-chronic-insom/",
+      "https://onlinelibrary.wiley.com/doi/10.1111/j.1471-4159.2006.03693.x"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/dsip.json"
+  },
+  {
+    "id": "glutathione",
+    "name": "Glutationa 600mg ZPHC / glutathione",
+    "topic": "Glutathione and redox-biomarker research",
+    "mechanisticSummary": "Glutathione (GSH) is an endogenous antioxidant tripeptide involved in cellular redox defense. Researchers measure reduced glutathione, oxidized glutathione (GSSG) and their ratio as indicators of glutathione status. Its biological role does not establish that an externally supplied preparation produces a particular outcome.",
+    "evidenceSummary": "Two randomized, double-blind, placebo-controlled oral-glutathione trials provide contrasting biomarker findings. A six-month trial in 54 adults reported increased glutathione in several measured compartments. A four-week trial enrolling 40 healthy adults found no significant changes in glutathione status or measured oxidative-stress biomarkers. These studies concern the named molecule, not this catalogue product.",
+    "limitation": "The listed product's formulation and route are unspecified. Oral-study results cannot establish equivalence to an unspecified preparation or route. Small healthy-adult samples and biomarker endpoints do not establish clinical or performance outcomes. Neither paper verifies this product's identity, purity, quality or manufacturer claims.",
+    "productCopy": "For researchers examining redox biology, Glutationa 600mg ZPHC is catalogued under glutathione, an endogenous antioxidant tripeptide. This entry connects the named molecule to controlled human research while keeping study formulations distinct from the listed product. Interpret the literature through its measured endpoints, duration and population; the catalogue label alone does not establish formulation, route or quality.",
+    "evidenceLevel": "Human research",
+    "papers": [
+      {
+        "title": "Randomized controlled trial of oral glutathione supplementation on body stores of glutathione",
+        "authors": "John P. Richie Jr; Sailendra Nichenametla; Wanda Neidig; Ana Calcagnotto; Jeremy S. Haley; Todd D. Schell; Joshua E. Muscat",
+        "year": 2015,
+        "journal": "European Journal of Nutrition",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24791752/",
+        "doi": "10.1007/s00394-014-0706-z",
+        "pmid": "24791752",
+        "studyType": "Six-month randomized, double-blind, placebo-controlled human trial; 54 non-smoking adults; oral glutathione",
+        "finding": "The trial reported increased glutathione levels in several sampled body compartments and changes in the whole-blood oxidized-to-reduced glutathione ratio. Levels generally returned to baseline after a one-month washout.",
+        "limitation": "Small healthy-adult study focused on biochemical measurements rather than clinical outcomes. Its oral study preparation is not evidence about the listed product's unspecified formulation or route.",
+        "relationship": "named compound"
+      },
+      {
+        "title": "Effects of oral glutathione supplementation on systemic oxidative stress biomarkers in human volunteers",
+        "authors": "J. Allen; R. D. Bradley",
+        "year": 2011,
+        "journal": "Journal of Alternative and Complementary Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21875351/",
+        "doi": "10.1089/acm.2010.0716",
+        "pmid": "21875351",
+        "studyType": "Four-week randomized, double-blind, placebo-controlled human trial; 40 healthy adults enrolled, 39 completed; oral glutathione",
+        "finding": "No significant between-group changes were found in urinary F2-isoprostanes, urinary 8-hydroxy-2'-deoxyguanosine or measured erythrocyte glutathione status.",
+        "limitation": "Short duration and a small healthy-adult sample limit generalization; a null result under these conditions does not resolve all formulations or contexts. The listed catalogue product was not studied.",
+        "relationship": "named compound"
+      }
+    ],
+    "sourceUrls": [
+      "https://pubmed.ncbi.nlm.nih.gov/24791752/",
+      "https://link.springer.com/article/10.1007/s00394-014-0706-z",
+      "https://pubmed.ncbi.nlm.nih.gov/21875351/"
+    ],
+    "reportPath": "/home/ubuntu/bioupgrade-research-2026-11-08/glutathione.json"
+  }
+]

@@ -1,0 +1,187 @@
+{
+  "origin": "local session, not production",
+  "checks": [
+    {
+      "path": "/api/health",
+      "http": 200,
+      "contentType": "application/json; charset=utf-8",
+      "markerChecked": null
+    },
+    {
+      "path": "/api/ready",
+      "http": 503,
+      "contentType": "application/json; charset=utf-8",
+      "markerChecked": "connectivityVerified"
+    },
+    {
+      "path": "/api/trpc/auth.me",
+      "http": 200,
+      "contentType": "application/json",
+      "markerChecked": null
+    },
+    {
+      "path": "/api/trpc/account.me",
+      "http": 401,
+      "contentType": "application/json",
+      "markerChecked": null
+    },
+    {
+      "path": "/api/missing",
+      "http": 404,
+      "contentType": "application/json; charset=utf-8",
+      "markerChecked": null
+    },
+    {
+      "path": "/",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "THE ACADEMIC LAYER"
+    },
+    {
+      "path": "/research",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "10.1172/jci.insight.140532"
+    },
+    {
+      "path": "/meta",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "Precision is"
+    },
+    {
+      "path": "/community",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "manus-no-record"
+    },
+    {
+      "path": "/documentation",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "COA"
+    },
+    {
+      "path": "/shop",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "Tirzepatida"
+    },
+    {
+      "path": "/products",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "Research Strategy"
+    },
+    {
+      "path": "/book",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "Research Strategy Session"
+    },
+    {
+      "path": "/account",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "noindex,follow"
+    },
+    {
+      "path": "/cart",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "loaded privately"
+    },
+    {
+      "path": "/book?product=evidence-briefing",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "From \u20ac850"
+    },
+    {
+      "path": "/community#community-network",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "THE BIOSCIENCE NETWORK"
+    },
+    {
+      "path": "/shop/tirzepatida-25mg-5x5mg-zphc",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "\u20ac150"
+    },
+    {
+      "path": "/shop/mots-c-40mg",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "\u20ac90"
+    },
+    {
+      "path": "/shop/klow-80mg",
+      "http": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "Identity unresolved"
+    },
+    {
+      "path": "/shop/missing-compound",
+      "http": 404,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "noindex,follow"
+    },
+    {
+      "path": "/missing-page",
+      "http": 404,
+      "contentType": "text/html; charset=utf-8",
+      "markerChecked": "not in the record"
+    },
+    {
+      "path": "/assets/not-found.js",
+      "http": 404,
+      "contentType": "application/json; charset=utf-8",
+      "markerChecked": null
+    },
+    {
+      "path": "/manus-routes.json",
+      "http": 200,
+      "contentType": "application/json; charset=UTF-8",
+      "markerChecked": "/research"
+    },
+    {
+      "path": "/images/research/semaglutide-structure.png",
+      "http": 200,
+      "contentType": "image/png",
+      "markerChecked": null
+    },
+    {
+      "path": "/images/research/lab-glassware.webp",
+      "http": 200,
+      "contentType": "image/webp",
+      "markerChecked": null
+    },
+    {
+      "path": "/images/research/tirze-25mg-reference.webp",
+      "http": 200,
+      "contentType": "image/webp",
+      "markerChecked": null
+    },
+    {
+      "path": "/robots.txt",
+      "http": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "markerChecked": "Disallow: /"
+    },
+    {
+      "path": "/sitemap.xml",
+      "http": 200,
+      "contentType": "application/xml; charset=utf-8",
+      "markerChecked": "<urlset"
+    },
+    {
+      "path": "/manus-storage/planhat-reference-hero_ee4ad5e3.webp",
+      "http": 403,
+      "contentType": "application/xml",
+      "markerChecked": null
+    }
+  ],
+  "passed": 30,
+  "servicesConnected": false
+}
