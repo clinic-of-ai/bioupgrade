@@ -11,6 +11,7 @@ import Voices from "@/components/landing/Voices";
 import Manifesto from "@/components/landing/Manifesto";
 import FinalCTA from "@/components/landing/FinalCTA";
 import Collective from "@/components/landing/Collective";
+import TwoPaths from "@/components/landing/TwoPaths";
 
 /*
  * BIOUPGRADE — landing page.
@@ -23,6 +24,7 @@ export default function Home() {
       <Nav />
       <main>
         <Hero />
+        <TwoPaths />
         <SourceStrip />
         <Statement />
         <Pillars />

@@ -25,10 +25,9 @@ export default function Statement() {
             <Reveal delay={120}>
               <p className="text-[16px] leading-relaxed text-foreground/70 md:text-[17px]">
                 Most people never give themselves the chance to be the best they
-                can be. We do the opposite. We read the primary literature as it
-                lands, decode the constantly shifting meta with AI-assisted
-                research, and turn it into molecules, protocols and decisions,
-                then pressure-test all of it with a community that lives inside
+                can be. We do the opposite. We decode the constantly shifting
+                meta, turn it into our own molecules, products and protocols,
+                and pressure-test all of it with a community that lives inside
                 the science. This is H+: the paradigm shift is here, and we
                 intend to use every tool it brings to develop the human itself.
               </p>

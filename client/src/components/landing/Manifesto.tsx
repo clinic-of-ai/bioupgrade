@@ -49,13 +49,13 @@ export default function Manifesto() {
             <span className="text-foreground/35">§08 / </span>THE MANIFESTO
           </p>
           <p className="max-w-4xl text-[clamp(2rem,6vw,4.5rem)] md:max-w-[52%] leading-[1.05] text-foreground">
-            The papers are the cheat codes.{" "}
+            Evolution is slow.{" "}
             <span className="text-foreground/60">
-              Most people just never read them.
+              We would rather build.
             </span>
           </p>
           <p className="mt-8 max-w-xl text-[17px] leading-relaxed text-foreground/75 md:max-w-[44%] md:text-[19px]">
-            We read them. Then we build what comes next: new molecules, new
+            So we build what comes next: new molecules, new products, new
             protocols and a community of active participants in our own
             evolution, chasing the next step for the human body and mind.
           </p>

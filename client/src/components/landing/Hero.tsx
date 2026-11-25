@@ -50,18 +50,18 @@ export default function Hero() {
           </div>
 
           <h1 className="mt-6 text-[clamp(2.75rem,9vw,6rem)] leading-[0.98] text-foreground">
-            Read the papers.
+            Beyond baseline.
             <br />
-            Rewrite the limits.
+            By design.
           </h1>
 
           <p className="mt-7 max-w-xl text-[16px] leading-relaxed text-foreground/70 md:text-[17px]">
             The crucible for chemonauts, bio-engineers and relentlessly academic
-            nerds who refuse to settle for baseline. We read the newest
-            peer-reviewed work in cognitive, physical, aesthetic and sexual
-            performance and longevity, then use AI and every emerging technology
-            to develop our own molecules and protocols. One question drives us:
-            how far can a human go?
+            minds who refuse to settle. We develop our own molecules and
+            protocols with AI and every emerging technology, aimed at the
+            evolution of the human mind and body: cognition, physique,
+            aesthetics, vitality and longevity. One question drives us: how far
+            can a human go?
           </p>
 
           <div className="mt-9 flex flex-col gap-3 sm:flex-row sm:items-center">
@@ -72,10 +72,10 @@ export default function Hero() {
               Book a consultation
             </Link>
             <a
-              href="/research"
+              href="/shop"
               className="btn-ghost px-6 py-3.5 text-center text-[14px]"
             >
-              Explore the paper library →
+              Shop the lab →
             </a>
           </div>
         </div>

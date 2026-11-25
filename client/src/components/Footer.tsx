@@ -6,7 +6,7 @@ const COLUMNS = [
   {
     title: "Research",
     links: [
-      { label: "Paper library", href: "/research" },
+      { label: "Academic rigor", href: "/research" },
       { label: "The Meta", href: "/meta" },
       { label: "Our community", href: "/community" },
     ],

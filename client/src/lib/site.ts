@@ -25,3 +25,18 @@ export const SOURCES = [
   "PNAS",
   "arXiv",
 ] as const;
+
+/**
+ * Second marquee row: cell-biology / genomics names used as PLACEHOLDERS for a
+ * future partner row. Replace only with confirmed partners (written permission).
+ */
+export const SOURCE_PLACEHOLDERS = [
+  "eLife",
+  "Nature Genetics",
+  "Cell Metabolism",
+  "Aging Cell",
+  "Nucleic Acids Research",
+  "PLOS Biology",
+  "Genome Research",
+  "EMBO Journal",
+] as const;

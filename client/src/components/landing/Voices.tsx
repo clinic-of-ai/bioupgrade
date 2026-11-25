@@ -3,8 +3,8 @@ import Reveal from "@/components/Reveal";
 const STANDARDS = [
   {
     index: "S—01",
-    title: "Read everything.",
-    body: "We work from the primary literature as it is published. A preprint, a small trial and a replicated result do not carry the same weight, so the limits sit beside every finding.",
+    title: "Rigor before hype.",
+    body: "A preprint, a small trial and a replicated result do not carry the same weight. We know the difference and keep the limits beside every finding.",
     detail: "EVIDENCE",
   },
   {

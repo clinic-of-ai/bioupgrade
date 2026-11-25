@@ -17,27 +17,26 @@ export default function ShopSection() {
           <div className="flex flex-col justify-between gap-8 md:flex-row md:items-end">
             <div className="max-w-2xl">
               <p className="mono text-[12px] tracking-[0.24em] text-accent">
-                <span className="text-foreground/35">§05 / </span>THE MOLECULE
+                <span className="text-foreground/35">§05 / </span>THE LAB
                 SHOP
               </p>
               <h2 className="mt-4 text-[clamp(2rem,5vw,3.6rem)] leading-[1.02]">
-                Molecules we stand behind.
+                Out of the lab.
                 <br />
-                <span className="text-accent">Papers attached.</span>
+                <span className="text-accent">Into your research.</span>
               </h2>
               <p className="mt-6 max-w-xl text-base leading-relaxed text-muted-foreground">
-                {OWNER_CATALOGUE_PRODUCTS.length} research-grade variants across
-                metabolic, recovery, regenerative and longevity research, each
-                with exact pricing and the primary literature behind it. The
-                paper shows what a molecule did in a study; batch documentation
-                shows what is in the vial.
+                Physical products that come out of our research and our obsession
+                with what the human body can become: {OWNER_CATALOGUE_PRODUCTS.length}{" "}
+                variants across metabolic, recovery, regenerative and longevity
+                research, each with exact pricing and its evidence one click away.
               </p>
             </div>
             <Link
               href="/shop"
               className="btn-primary inline-flex min-h-12 items-center gap-2 self-start px-5 text-sm md:self-auto"
             >
-              Explore the catalogue <ArrowUpRight className="h-4 w-4" />
+              Enter the lab <ArrowUpRight className="h-4 w-4" />
             </Link>
           </div>
         </Reveal>

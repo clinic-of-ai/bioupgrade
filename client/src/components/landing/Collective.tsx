@@ -36,11 +36,11 @@ export default function Collective() {
             <Reveal delay={90}>
               <p className="mt-7 max-w-2xl text-[16px] leading-relaxed text-foreground/70 md:text-[17px]">
                 Bioupgrade is H+ in practice: a fast-growing community of
-                chemonauts, bio-engineers, athletes, founders and academic nerds
-                who dive deep into the science to reach their excellence. We
-                share papers, compare results, build with AI and push each other
-                past what we thought was possible. Every new study gets read,
-                argued over and stress-tested in the open.
+                chemonauts, nootropics researchers, longevity and aesthetics
+                optimisers, bio-engineers and academic minds, all chasing an
+                edge. We trade findings, compare notes, build with AI and push
+                each other past what we thought was possible. Every new compound
+                and every new study gets dissected and stress-tested in the open.
               </p>
               <p className="mt-4 max-w-2xl text-[16px] leading-relaxed text-foreground/70 md:text-[17px]">
                 It was founded by avant-garde biotechnologists, biochemists,
@@ -69,6 +69,16 @@ export default function Collective() {
             )}
           </div>
           <div className="flex flex-col gap-4 md:col-span-5 md:pt-10">
+            <Reveal delay={60}>
+              <img
+                src="/images/community-collective.webp"
+                alt="Researchers and founders in lab coats and smart-casual clothes discussing a molecular structure and DNA helix drawn on a glass whiteboard in a modern lab."
+                width={1200}
+                height={900}
+                className="aspect-[4/3] w-full rounded-2xl border border-accent/30 object-cover"
+                loading="lazy"
+              />
+            </Reveal>
             <Reveal delay={120}>
               <ChannelCard
                 icon={<Clapperboard aria-hidden="true" className="h-6 w-6 text-accent" />}

@@ -553,7 +553,7 @@ describe("provider-preserving page integration", () => {
   it("preserves research detail, paper-library and interest flows alongside the separate Shopify service panel", () => {
     const html = wrap(createElement(Shop), "/shop");
     expect(html).toContain("27");
-    expect(html).toContain("Explore the paper library");
+    expect(html).toContain("See the evidence");
     expect(html).toContain("Specifications &amp; papers");
     expect(html).toContain("Sign in to save interest");
     expect(html).toContain("Existing Shopify services");

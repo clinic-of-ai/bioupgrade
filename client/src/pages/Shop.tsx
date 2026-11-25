@@ -231,7 +231,7 @@ export default function Shop() {
               href="/research"
               className="btn-primary inline-flex min-h-12 items-center gap-3 px-5 text-sm"
             >
-              <BookOpen className="h-4 w-4" /> Explore the paper library
+              <BookOpen className="h-4 w-4" /> See the evidence
             </Link>
             <p className="max-w-sm text-xs leading-relaxed text-muted-foreground">
               Research materials are not for human or animal use. Listed prices

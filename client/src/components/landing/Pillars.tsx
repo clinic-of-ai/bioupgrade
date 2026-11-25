@@ -5,26 +5,29 @@ const PILLARS = [
   {
     index: "01",
     title: "The Meta",
+    cta: "Decode the meta",
     img: "/images/pillar-meta.webp",
     alt: "Risograph collage of an annotated molecule over acetate overlays, a DNA helix and pathway maps, marking what a mechanism explains and what stays uncertain.",
     href: "/meta",
-    body: "The constant new meta, decoded. What is moving in cognitive, physical, aesthetic and sexual performance and longevity: the mechanism, the study design and what is still unproven, so you see the next step before it goes mainstream.",
+    body: "The constant new meta, decoded. What is moving in cognition, physique, aesthetics, vitality and longevity: the mechanism, the evidence and what is still unproven, so you see the next step before it goes mainstream.",
   },
   {
     index: "02",
-    title: "The Paper Library",
+    title: "Academic Rigor",
+    cta: "Inspect the evidence",
     img: "/images/pillar-library.webp",
     alt: "A clipped and tabbed stack of research papers in an underground archive, with a DNA helix and molecular chains rising from its pages.",
     href: "/research",
-    body: "Our credibility, in full view. Primary papers from Nature and Cell to the latest preprints, each with study type, findings and limits. Every molecule and protocol we build starts here, negative results included.",
+    body: "Technological ruthlessness, applied to the evidence. Every claim traced to its source, every study weighed by its design, negative results included. It is the foundation everything else stands on.",
   },
   {
     index: "03",
-    title: "The Community",
-    img: "/images/pillar-community.webp",
-    alt: "Underground academic punks in a basement lab-salon sketching DNA and chemical structures on a chalkboard around a shared worktable.",
-    href: "/community",
-    body: "The H+ crucible: tens of thousands of chemonauts, bio-engineers, athletes and researchers across TikTok and Discord who dive deep into the science and share what they extract. Debate the papers, compare notes, push each other further.",
+    title: "The Lab",
+    cta: "Explore the lab",
+    img: "/images/pillar-lab.webp",
+    alt: "Risograph illustration of gloved hands raising an amber vial over a basement lab bench with a vial rack, a glowing flask, sketched molecules and an AI protein model on a laptop.",
+    href: "/shop",
+    body: "Chemical curiosity, made physical. We develop and select our own research products from our ongoing work, and document what goes into each one. Not only conversation: tangible results of the work.",
   },
 ] as const;
 export default function Pillars() {
@@ -37,13 +40,13 @@ export default function Pillars() {
               <span className="text-foreground/35">§02 / </span>THE SYSTEM
             </p>
             <span className="mono text-[11px] tracking-[0.2em] text-foreground/35">
-              READ / BUILD / CONNECT
+              META / RIGOR / LAB
             </span>
           </div>
           <h2 className="mt-4 max-w-3xl text-[clamp(1.9rem,4.5vw,3rem)] leading-[1.02]">
-            Ahead of the paradigm.
+            Decode. Verify.
             <br />
-            Built from the source.
+            Build.
           </h2>
         </Reveal>
         <div className="mt-12 grid gap-5 md:grid-cols-3">
@@ -71,9 +74,9 @@ export default function Pillars() {
                   </p>
                   <Link
                     href={p.href}
-                    className="mt-5 inline-flex min-h-11 items-center text-sm text-accent hover:text-foreground"
+                    className="mt-auto pt-5 inline-flex min-h-11 items-center text-sm text-accent hover:text-foreground"
                   >
-                    Explore {p.title.replace("The ", "").toLowerCase()} →
+                    {p.cta} →
                   </Link>
                 </div>
               </article>
