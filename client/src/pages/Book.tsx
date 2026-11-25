@@ -43,6 +43,23 @@ export default function Book() {
               Session; no project quote or booking has been created.
             </p>
           )}
+          <Link
+            href="/consultation/intake"
+            className="mb-6 flex min-h-12 flex-wrap items-center justify-between gap-3 rounded-xl border border-accent/40 bg-white px-5 py-4 text-sm hover:border-accent"
+          >
+            <span>
+              <span className="font-medium">
+                Booking a Bio-Strategy, Growth, Performance or Elite session?
+              </span>{" "}
+              <span className="text-muted-foreground">
+                Send your introduction and goal first, then pick a Read AI slot.
+              </span>
+            </span>
+            <span className="inline-flex items-center gap-1 text-accent">
+              Start the brief{" "}
+              <ArrowUpRight className="h-4 w-4" aria-hidden="true" />
+            </span>
+          </Link>
           <details className="mb-8 rounded-xl border border-border bg-white px-5">
             <summary className="min-h-12 cursor-pointer py-4 text-sm font-medium focus-visible:outline focus-visible:outline-2 focus-visible:outline-accent">
               Change selected offer
@@ -99,7 +116,7 @@ export default function Book() {
               >
                 <img
                   src={ASSETS.bookBg}
-                  alt="Two collaborators discussing research beside a laptop in a warm, sunlit room."
+                  alt="Session-planning notebook, calendar and molecular model on a lab bench."
                   className="aspect-[16/7] w-full object-cover"
                   loading="lazy"
                 />

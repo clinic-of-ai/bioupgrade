@@ -2,7 +2,7 @@ import { Link } from "wouter";
 import { ASSETS } from "@/lib/site";
 
 /*
- * Hero — exact user-provided Planhat-style portrait with warm golden visor light.
+ * Hero — underground biopunk lab photograph (patched lab coat, glowing vial).
  * Isomorphic Labs-inspired mint overlay, forest typography, green CTA, and editorial spacing.
  */
 export default function Hero() {
@@ -11,23 +11,31 @@ export default function Hero() {
       {/* Background image */}
       <img
         src={ASSETS.hero}
-        alt="Person wearing a futuristic golden visor in a warm, sunlit natural setting."
+        alt="Researcher in a patched lab coat examining a glowing vial in an underground lab."
         className="absolute inset-0 -z-20 h-full w-full object-cover object-[58%_center] md:object-[62%_center]"
         fetchPriority="high"
       />
       {/* Light mint wash keeps the supplied image visible while guaranteeing text contrast. */}
       <div
-        className="absolute inset-0 -z-10"
+        className="absolute inset-0 -z-10 hidden md:block"
         style={{
           background:
-            "linear-gradient(90deg, rgba(239,248,240,1) 0%, rgba(239,248,240,0.99) 42%, rgba(239,248,240,0.86) 58%, rgba(239,248,240,0.12) 100%)",
+            "linear-gradient(90deg, rgba(239,248,240,1) 0%, rgba(239,248,240,0.97) 38%, rgba(239,248,240,0.7) 52%, rgba(239,248,240,0) 70%, rgba(239,248,240,0) 100%)",
+        }}
+      />
+      {/* Mobile: the darker biopunk photo sits behind the copy, so the wash stays near-opaque. */}
+      <div
+        className="absolute inset-0 -z-10 md:hidden"
+        style={{
+          background:
+            "linear-gradient(180deg, rgba(239,248,240,0.55) 0%, rgba(239,248,240,0.9) 22%, rgba(239,248,240,0.92) 78%, rgba(239,248,240,0.7) 100%)",
         }}
       />
       <div
         className="absolute inset-0 -z-10"
         style={{
           background:
-            "linear-gradient(0deg, rgba(239,248,240,0.44) 0%, rgba(239,248,240,0) 55%, rgba(239,248,240,0.14) 100%)",
+            "linear-gradient(0deg, rgba(239,248,240,0.3) 0%, rgba(239,248,240,0) 45%, rgba(239,248,240,0) 100%)",
         }}
       />
       <div className="pointer-events-none absolute -left-40 top-1/3 -z-10 h-[420px] w-[420px] rounded-full bg-accent/10 blur-[120px]" />

@@ -8,6 +8,7 @@ import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
 import RouteMetadata from "./components/RouteMetadata";
 const Book = lazy(() => import("@/pages/Book"));
+const Intake = lazy(() => import("@/pages/Intake"));
 const Products = lazy(() => import("@/pages/Products"));
 const Shop = lazy(() => import("@/pages/Shop"));
 const Cart = lazy(() => import("@/pages/Cart"));
@@ -37,6 +38,7 @@ function Router() {
       <Switch>
         <Route path={"/"} component={Home} />
         <Route path={"/book"} component={Book} />
+        <Route path={"/consultation/intake"} component={Intake} />
         <Route path={"/products"} component={Products} />
         <Route path={"/shop"} component={Shop} />
         <Route path={"/cart"} component={Cart} />

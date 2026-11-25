@@ -21,7 +21,7 @@ export default function Consultation() {
             >
               <img
                 src={ASSETS.consultation}
-                alt="Two collaborators discussing research beside a laptop in a warm, sunlit room."
+                alt="An academic and a younger researcher reviewing a highlighted paper beside a molecular model."
                 className="aspect-[4/3] w-full object-cover"
                 loading="eager"
               />

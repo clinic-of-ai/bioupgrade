@@ -147,6 +147,10 @@
     {
       "path": "/shop/glutationa-600mg-zphc",
       "title": "Glutationa 600mg ZPHC"
+    },
+    {
+      "path": "/consultation/intake",
+      "title": "Consultation brief"
     }
   ]
 }

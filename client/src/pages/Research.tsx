@@ -165,9 +165,9 @@ export default function Research() {
             <figure className="overflow-hidden rounded-[18px] border border-border bg-white">
               <img
                 src="/images/research/lab-glassware.webp"
-                alt="Glass laboratory vessels arranged against a light background."
+                alt="Laboratory glassware beside a clipped stack of highlighted research papers."
                 className="aspect-[4/3] w-full object-cover"
-                width={800}
+                width={1600}
                 height={1200}
                 loading="lazy"
               />
