@@ -19,9 +19,9 @@ export default function Nav({ slim = false }: { slim?: boolean }) {
   }, []);
 
   const links = [
+    { label: "Consultations", href: "/products" },
     { label: "Research", href: "/research" },
-    { label: "Consulting", href: "/products" },
-    { label: "Shop", href: "/shop" },
+    { label: "Lab", href: "/shop" },
     { label: "Community", href: "/community" },
     { label: "The Meta", href: "/meta" },
   ];

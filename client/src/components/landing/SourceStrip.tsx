@@ -106,7 +106,8 @@ export default function SourceStrip() {
     >
       <div className="container pt-9 pb-2">
         <div className="flex flex-col items-center gap-1 text-center md:flex-row md:justify-between md:text-left">
-          <p className="mono text-[11px] tracking-[0.24em] text-accent">
+          <p className="mono flex items-center gap-2 text-[11px] tracking-[0.24em] text-accent">
+            <span className="live-dot" aria-hidden="true" />
             <span className="text-foreground/35">LIVE FEED / </span>SOURCES WE READ
           </p>
           <p className="mono text-[11px] tracking-[0.06em] text-foreground/45">

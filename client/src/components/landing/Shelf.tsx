@@ -69,7 +69,7 @@ export default function Shelf() {
       <div className="container py-24 md:py-32">
         <Reveal>
           <p className="mono text-[12px] tracking-[0.24em] text-accent">
-            <span className="text-foreground/35">§09 / </span>THE H+ SHELF
+            <span className="text-foreground/35">§10 / </span>THE H+ SHELF
           </p>
           <div className="mt-4 grid gap-8 md:grid-cols-[1.1fr_1fr] md:items-end">
             <h2 className="text-[clamp(2rem,5vw,3.6rem)] leading-[1.02] text-foreground">

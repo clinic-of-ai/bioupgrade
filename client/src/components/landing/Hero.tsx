@@ -12,7 +12,7 @@ export default function Hero() {
       <img
         src={ASSETS.hero}
         alt="Researcher in a patched lab coat examining a glowing vial in an underground lab."
-        className="absolute inset-0 -z-20 h-full w-full object-cover object-[58%_center] md:object-[62%_center]"
+        className="hero-drift absolute inset-0 -z-20 h-full w-full object-cover object-[58%_center] md:object-[62%_center]"
         fetchPriority="high"
       />
       {/* Light mint wash keeps the supplied image visible while guaranteeing text contrast. */}
@@ -41,7 +41,7 @@ export default function Hero() {
       <div className="pointer-events-none absolute -left-40 top-1/3 -z-10 h-[420px] w-[420px] rounded-full bg-accent/10 blur-[120px]" />
 
       <div className="container flex min-h-[100svh] flex-col justify-center pt-24 pb-20">
-        <div className="max-w-2xl">
+        <div className="hero-rise max-w-2xl">
           <div className="flex items-center gap-3">
             <span className="h-px w-8 bg-accent/70" />
             <p className="mono text-[12px] tracking-[0.26em] text-accent">
@@ -69,15 +69,24 @@ export default function Hero() {
               href="/book"
               className="btn-primary px-6 py-3.5 text-center text-[14px]"
             >
-              Book a consultation
+              Book a video consultation
             </Link>
-            <a
+            <Link
               href="/shop"
               className="btn-ghost px-6 py-3.5 text-center text-[14px]"
             >
               Shop the lab →
-            </a>
+            </Link>
+            <Link
+              href="/research"
+              className="mono px-2 py-3 text-center text-[13px] text-foreground/65 underline-offset-4 hover:text-foreground hover:underline"
+            >
+              Read the research
+            </Link>
           </div>
+          <p className="mono mt-6 text-[11px] tracking-[0.2em] text-foreground/45">
+            CONSULTATIONS · RESEARCH · LAB
+          </p>
         </div>
       </div>
 

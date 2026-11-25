@@ -46,7 +46,7 @@ export default function Manifesto() {
       <div className="container py-36 md:py-48">
         <Reveal>
           <p className="mono mb-8 text-[12px] tracking-[0.24em] text-accent">
-            <span className="text-foreground/35">§08 / </span>THE MANIFESTO
+            <span className="text-foreground/35">§09 / </span>THE MANIFESTO
           </p>
           <p className="max-w-4xl text-[clamp(2rem,6vw,4.5rem)] md:max-w-[52%] leading-[1.05] text-foreground">
             Evolution is slow.{" "}

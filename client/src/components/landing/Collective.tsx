@@ -1,6 +1,7 @@
 import type React from "react";
 import { ArrowUpRight, Clapperboard, Instagram, MessagesSquare } from "lucide-react";
 import Reveal from "@/components/Reveal";
+import CountUp from "@/components/CountUp";
 import { getCommunityConfig } from "@/lib/community";
 import {
   COMMUNITY_FEED,
@@ -57,7 +58,7 @@ export default function Collective() {
                     <div key={stat.label}>
                       <dt className="sr-only">{stat.label}</dt>
                       <dd className="text-[clamp(2rem,4vw,3rem)] leading-none text-foreground">
-                        {stat.value}
+                        <CountUp value={stat.value} />
                       </dd>
                       <p className="mono mt-2 text-[11px] tracking-[0.18em] text-foreground/55">
                         {stat.label.toUpperCase()}

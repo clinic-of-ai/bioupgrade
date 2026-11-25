@@ -11,7 +11,8 @@ import Voices from "@/components/landing/Voices";
 import Manifesto from "@/components/landing/Manifesto";
 import FinalCTA from "@/components/landing/FinalCTA";
 import Collective from "@/components/landing/Collective";
-import TwoPaths from "@/components/landing/TwoPaths";
+import ThreePaths from "@/components/landing/ThreePaths";
+import Loop from "@/components/landing/Loop";
 import Shelf from "@/components/landing/Shelf";
 
 /*
@@ -25,7 +26,7 @@ export default function Home() {
       <Nav />
       <main>
         <Hero />
-        <TwoPaths />
+        <ThreePaths />
         <SourceStrip />
         <Statement />
         <Pillars />
@@ -34,6 +35,7 @@ export default function Home() {
         <ShopSection />
         <Voices />
         <Collective />
+        <Loop />
         <Manifesto />
         <Shelf />
         <FinalCTA />
