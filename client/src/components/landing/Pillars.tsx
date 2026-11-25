@@ -1,26 +1,28 @@
 import { Link } from "wouter";
 import Reveal from "@/components/Reveal";
-import { ASSETS } from "@/lib/site";
 
 const PILLARS = [
   {
     index: "01",
     title: "The Meta",
-    img: ASSETS.pillarTexture,
+    img: "/images/pillar-meta.webp",
+    alt: "Risograph collage of an annotated molecule over acetate overlays, a DNA helix and pathway maps, marking what a mechanism explains and what stays uncertain.",
     href: "/meta",
     body: "A source-linked editorial on precision molecular development: what a mechanism explains, what a study measured and what remains uncertain. This edition—not a promise of automated weekly drops.",
   },
   {
     index: "02",
     title: "The Paper Library",
-    img: ASSETS.pillarLab2,
+    img: "/images/pillar-library.webp",
+    alt: "A clipped and tabbed stack of research papers in an underground archive, with a DNA helix and molecular chains rising from its pages.",
     href: "/research",
     body: "Primary papers, study types, findings and limits. Follow a molecular question into its methods, distinguish component evidence from blend claims and keep negative results in the picture.",
   },
   {
     index: "03",
     title: "The Community",
-    img: ASSETS.pillarCircle,
+    img: "/images/pillar-community.webp",
+    alt: "Underground academic punks in a basement lab-salon sketching DNA and chemical structures on a chalkboard around a shared worktable.",
     href: "/community",
     body: "A research-literacy concept for curious readers and rigorous builders. Explore the standards, educational consultations and your Signal account; no invented live forum or member numbers.",
   },
@@ -55,7 +57,7 @@ export default function Pillars() {
                 >
                   <img
                     src={p.img}
-                    alt="Illustrative future-facing Bioupgrade editorial imagery."
+                    alt={p.alt}
                     className="h-full w-full object-cover"
                     loading="lazy"
                   />
