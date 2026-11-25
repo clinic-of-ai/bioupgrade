@@ -27,7 +27,7 @@ const PILLARS = [
     img: "/images/pillar-lab.webp",
     alt: "Risograph illustration of gloved hands raising an amber vial over a basement lab bench with a vial rack, a glowing flask, sketched molecules and an AI protein model on a laptop.",
     href: "/shop",
-    body: "Chemical curiosity, made physical. We develop and select our own research products from our ongoing work, and document what goes into each one. Not only conversation: tangible results of the work.",
+    body: "Chemical curiosity, made physical. We develop and select our own research products from our ongoing work, and document what goes into each one.",
   },
 ] as const;
 export default function Pillars() {

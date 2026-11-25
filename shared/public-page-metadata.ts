@@ -30,8 +30,8 @@ export function getPublicPageMetadata(path: string): PublicPageMetadata {
   };
   const pages: Record<string, [string, string]> = {
     "/": [
-      "Bioupgrade — Molecular science, papers and the Meta",
-      "Explore source-led molecular science, primary papers, educational consultations and a research catalogue with explicit evidence and documentation boundaries.",
+      "Bioupgrade — H+ research consultations, lab products and the Meta",
+      "Book a 1:1 research consultation, browse lab research compounds (research use only) and join a community of bio-engineers and academic minds working at the frontier of human performance science.",
     ],
     "/research": [
       "Bioupgrade Research — Primary papers and evidence context",
