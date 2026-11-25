@@ -12,6 +12,7 @@ import Manifesto from "@/components/landing/Manifesto";
 import FinalCTA from "@/components/landing/FinalCTA";
 import Collective from "@/components/landing/Collective";
 import TwoPaths from "@/components/landing/TwoPaths";
+import Shelf from "@/components/landing/Shelf";
 
 /*
  * BIOUPGRADE — landing page.
@@ -34,6 +35,7 @@ export default function Home() {
         <Voices />
         <Collective />
         <Manifesto />
+        <Shelf />
         <FinalCTA />
       </main>
       <Footer />

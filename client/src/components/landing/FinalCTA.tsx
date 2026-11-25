@@ -12,7 +12,7 @@ export default function FinalCTA() {
       <div className="container py-32 text-center md:py-44">
         <Reveal>
           <p className="mono mb-8 text-[12px] tracking-[0.24em] text-accent">
-            <span className="text-foreground/35">§09 / </span>JOIN THE CRUCIBLE
+            <span className="text-foreground/35">§10 / </span>JOIN THE CRUCIBLE
           </p>
         </Reveal>
         <Reveal delay={60}>

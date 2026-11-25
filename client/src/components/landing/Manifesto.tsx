@@ -7,11 +7,11 @@ import { ASSETS } from "@/lib/site";
 const TENETS = [
   {
     title: "Better than well.",
-    body: "Not only fixing what is broken: expanding what a healthy human mind and body can do.",
+    body: "Medicine repairs what is broken. We study how far a healthy mind and body can be extended.",
   },
   {
     title: "Challenge over comfort.",
-    body: "Baseline is a starting point, not a destiny. There is always a sharper, stronger version of you worth building toward.",
+    body: "Baseline is where you start. There is always a sharper, stronger version of you to build toward.",
   },
   {
     title: "Rigor over dogma.",
