@@ -1,11 +1,9 @@
 import { Link } from "wouter";
 import Reveal from "@/components/Reveal";
 import { ASSETS } from "@/lib/site";
-import { getProduct } from "@shared/products";
+import { INTAKE_SERVICES } from "@shared/consultation-intake";
 
 export default function Consultation() {
-  const session = getProduct("research-strategy-session");
-  if (!session) return null;
 
   return (
     <section
@@ -36,77 +34,65 @@ export default function Consultation() {
                 <span className="ml-3 text-foreground/30">// 1:1</span>
               </p>
               <h2 className="mt-4 text-[clamp(2rem,5vw,3.25rem)] leading-[1.02] text-foreground">
-                One question.
+                Your ceiling,
                 <br />
-                One paper. A clearer read.
+                mapped from the evidence.
               </h2>
             </Reveal>
             <Reveal delay={100}>
               <p className="mt-7 text-[16px] leading-relaxed text-foreground/70">
-                For curious readers, students and science communicators who want
-                to understand a published finding. Bring one educational
-                question, the paper link and the passage that needs a closer
-                read. Examine the entity, model, endpoint and uncertainty—not a
-                personal treatment or performance plan.
+                One-to-one sessions with a team that came up through
+                biotechnology, biochemistry, neurology and pharmacology. Bring
+                your goal, whether strength, focus, body composition, recovery,
+                vitality or longevity, and we map it against the newest research,
+                our own protocol work and what is still uncertain. You leave
+                with a clear, source-linked strategy built for you.
               </p>
               <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
-                Proposed written outputs: a question map, a source-linked
-                evidence read and a next-reading shortlist. Scope, format,
-                timing and correction terms need agreement before commitment;
-                these are proposed engagement outputs, not completed-work
-                claims.
+                Every booking starts with a short brief tailored to your
+                profile, from athletes and knowledge workers to practitioners
+                and advanced self-experimenters, so the session starts at depth.
               </p>
             </Reveal>
             <Reveal delay={160}>
-              <div className="mt-7 rounded-[12px] border border-accent/20 bg-white px-5 py-4">
-                <p className="mono text-[13px] leading-relaxed text-foreground/80">
-                  60 minutes
-                  <span className="mx-2 text-foreground/30">·</span>
-                  1:1
-                  <span className="mx-2 text-foreground/30">·</span>
-                  <span className="text-accent">{session.priceLabel}</span>
-                </p>
-                <p className="mt-2 text-xs leading-relaxed text-muted-foreground">
-                  Confirm fit and availability first. Payment and scheduling are
-                  separate; a purchase does not reserve a calendar slot.
-                </p>
+              <div className="mt-7 grid grid-cols-2 gap-2 rounded-[12px] border border-accent/20 bg-white p-3 sm:grid-cols-4">
+                {INTAKE_SERVICES.map(service => (
+                  <Link
+                    key={service.id}
+                    href={`/consultation/intake?service=${service.id}`}
+                    className="rounded-[8px] px-3 py-2 transition-colors hover:bg-secondary/60"
+                  >
+                    <p className="text-[13px] leading-snug text-foreground">
+                      {service.title}
+                    </p>
+                    <p className="mono mt-1 text-[12px] text-foreground/60">
+                      {service.minutes} min
+                      <span className="mx-1.5 text-foreground/30">·</span>
+                      <span className="text-accent">{service.priceLabel}</span>
+                    </p>
+                  </Link>
+                ))}
               </div>
             </Reveal>
             <Reveal delay={220}>
               <div className="mt-7 flex flex-wrap items-center gap-x-6 gap-y-3">
                 <Link
-                  href={`/book?product=${session.id}`}
+                  href="/consultation/intake"
                   className="btn-primary inline-flex min-h-12 items-center px-6 py-3.5 text-[14px]"
                 >
-                  Prepare your paper question
+                  Start your brief
                 </Link>
                 <Link
                   href="/products"
                   className="inline-flex min-h-11 items-center text-sm text-accent underline underline-offset-4"
                 >
-                  Compare wider project scopes
+                  Compare the four protocols
                 </Link>
               </div>
               <p className="mt-5 text-xs leading-relaxed text-muted-foreground">
-                Research literacy only—not diagnosis, prescribing, dosing or
-                personalised human-use protocols. Wider source reviews, team
-                workshops and workflow evaluations require separate scope and
-                quotes; no upgrade is required.
+                Sessions are educational and research-focused. They are not
+                medical diagnosis or treatment.
               </p>
-              <div className="mt-3 flex flex-wrap gap-x-5 text-sm">
-                <Link
-                  href="/research"
-                  className="inline-flex min-h-11 items-center text-accent hover:underline"
-                >
-                  Research library & prework →
-                </Link>
-                <Link
-                  href="/community#community-network"
-                  className="inline-flex min-h-11 items-center text-accent hover:underline"
-                >
-                  Community connection status →
-                </Link>
-              </div>
             </Reveal>
           </div>
         </div>

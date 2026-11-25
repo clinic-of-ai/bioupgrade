@@ -8,7 +8,7 @@ const PILLARS = [
     img: "/images/pillar-meta.webp",
     alt: "Risograph collage of an annotated molecule over acetate overlays, a DNA helix and pathway maps, marking what a mechanism explains and what stays uncertain.",
     href: "/meta",
-    body: "A source-linked editorial on precision molecular development: what a mechanism explains, what a study measured and what remains uncertain. This edition—not a promise of automated weekly drops.",
+    body: "The constant new meta, decoded. What is moving in cognitive, physical, aesthetic and sexual performance and longevity: the mechanism, the study design and what is still unproven, so you see the next step before it goes mainstream.",
   },
   {
     index: "02",
@@ -16,7 +16,7 @@ const PILLARS = [
     img: "/images/pillar-library.webp",
     alt: "A clipped and tabbed stack of research papers in an underground archive, with a DNA helix and molecular chains rising from its pages.",
     href: "/research",
-    body: "Primary papers, study types, findings and limits. Follow a molecular question into its methods, distinguish component evidence from blend claims and keep negative results in the picture.",
+    body: "Our credibility, in full view. Primary papers from Nature and Cell to the latest preprints, each with study type, findings and limits. Every molecule and protocol we build starts here, negative results included.",
   },
   {
     index: "03",
@@ -24,7 +24,7 @@ const PILLARS = [
     img: "/images/pillar-community.webp",
     alt: "Underground academic punks in a basement lab-salon sketching DNA and chemical structures on a chalkboard around a shared worktable.",
     href: "/community",
-    body: "A research-literacy concept for curious readers and rigorous builders. Explore the standards, educational consultations and your Signal account; no invented live forum or member numbers.",
+    body: "The H+ crucible: tens of thousands of chemonauts, bio-engineers, athletes and researchers across TikTok and Discord who dive deep into the science and share what they extract. Debate the papers, compare notes, push each other further.",
   },
 ] as const;
 export default function Pillars() {
@@ -34,17 +34,16 @@ export default function Pillars() {
         <Reveal>
           <div className="flex items-baseline justify-between gap-4">
             <p className="mono text-xs tracking-[0.22em] text-accent">
-              <span className="text-foreground/35">§02 / </span>THE ACADEMIC
-              LAYER
+              <span className="text-foreground/35">§02 / </span>THE SYSTEM
             </p>
             <span className="mono text-[11px] tracking-[0.2em] text-foreground/35">
-              READ / QUESTION / CONNECT
+              READ / BUILD / CONNECT
             </span>
           </div>
           <h2 className="mt-4 max-w-3xl text-[clamp(1.9rem,4.5vw,3rem)] leading-[1.02]">
             Ahead of the paradigm.
             <br />
-            Grounded in the methods.
+            Built from the source.
           </h2>
         </Reveal>
         <div className="mt-12 grid gap-5 md:grid-cols-3">

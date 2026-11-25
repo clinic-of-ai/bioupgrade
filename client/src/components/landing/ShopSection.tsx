@@ -17,19 +17,20 @@ export default function ShopSection() {
           <div className="flex flex-col justify-between gap-8 md:flex-row md:items-end">
             <div className="max-w-2xl">
               <p className="mono text-[12px] tracking-[0.24em] text-accent">
-                <span className="text-foreground/35">§05 / </span>THE BIOUPGRADE
+                <span className="text-foreground/35">§05 / </span>THE MOLECULE
                 SHOP
               </p>
               <h2 className="mt-4 text-[clamp(2rem,5vw,3.6rem)] leading-[1.02]">
-                A catalogue.
+                Molecules we stand behind.
                 <br />
-                <span className="text-accent">With a reading layer.</span>
+                <span className="text-accent">Papers attached.</span>
               </h2>
               <p className="mt-6 max-w-xl text-base leading-relaxed text-muted-foreground">
-                {OWNER_CATALOGUE_PRODUCTS.length} owner-listed variants, exact
-                prices and primary-source context. Explore molecular signalling,
-                matrix biology and mitochondrial research without confusing a
-                published finding with verification of a supplied batch.
+                {OWNER_CATALOGUE_PRODUCTS.length} research-grade variants across
+                metabolic, recovery, regenerative and longevity research, each
+                with exact pricing and the primary literature behind it. The
+                paper shows what a molecule did in a study; batch documentation
+                shows what is in the vial.
               </p>
             </div>
             <Link

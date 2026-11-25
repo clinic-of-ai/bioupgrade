@@ -12,23 +12,25 @@ export default function Statement() {
             <Reveal>
               <p className="mono mb-6 text-[12px] tracking-[0.22em] text-accent">
                 <span className="text-foreground/35">§01 / </span>THE THESIS
-                <span className="ml-3 text-foreground/30">// signal vs. hype</span>
+                <span className="ml-3 text-foreground/30">// baseline is a choice</span>
               </p>
               <h2 className="text-[clamp(2.25rem,6vw,4.25rem)] leading-[1.0] text-foreground/55">
-                Not biohacking.
+                Most never test their ceiling.
                 <br />
-                <span className="text-accent">Biofluency.</span>
+                <span className="text-accent">We build past it.</span>
               </h2>
             </Reveal>
           </div>
           <div className="md:col-span-5 md:pt-3">
             <Reveal delay={120}>
               <p className="text-[16px] leading-relaxed text-foreground/70 md:text-[17px]">
-                Anyone can buy a supplement. We do the harder thing: read the primary
-                literature, separate signal from hype, and pressure-test it as a
-                community before anyone bets their biology on it. The result is a
-                living, current understanding of human enhancement — built from
-                papers, not podcasts.
+                Most people never give themselves the chance to be the best they
+                can be. We do the opposite. We read the primary literature as it
+                lands, decode the constantly shifting meta with AI-assisted
+                research, and turn it into molecules, protocols and decisions,
+                then pressure-test all of it with a community that lives inside
+                the science. This is H+: the paradigm shift is here, and we
+                intend to use every tool it brings to develop the human itself.
               </p>
             </Reveal>
           </div>

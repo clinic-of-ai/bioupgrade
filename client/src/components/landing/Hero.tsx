@@ -45,21 +45,23 @@ export default function Hero() {
           <div className="flex items-center gap-3">
             <span className="h-px w-8 bg-accent/70" />
             <p className="mono text-[12px] tracking-[0.26em] text-accent">
-              MOLECULAR SCIENCE · THE META, DECODED
+              H+ · THE META, DECODED
             </p>
           </div>
 
           <h1 className="mt-6 text-[clamp(2.75rem,9vw,6rem)] leading-[0.98] text-foreground">
             Read the papers.
             <br />
-            Run the meta.
+            Rewrite the limits.
           </h1>
 
           <p className="mt-7 max-w-xl text-[16px] leading-relaxed text-foreground/70 md:text-[17px]">
-            A source-led community for people who want to understand the
-            frontier of bioscience. Read the methods, keep the uncertainty
-            visible, and turn research into better questions—not unsupported
-            health promises.
+            The crucible for chemonauts, bio-engineers and relentlessly academic
+            nerds who refuse to settle for baseline. We read the newest
+            peer-reviewed work in cognitive, physical, aesthetic and sexual
+            performance and longevity, then use AI and every emerging technology
+            to develop our own molecules and protocols. One question drives us:
+            how far can a human go?
           </p>
 
           <div className="mt-9 flex flex-col gap-3 sm:flex-row sm:items-center">

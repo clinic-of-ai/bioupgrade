@@ -12,22 +12,30 @@ export default function FinalCTA() {
       <div className="container py-32 text-center md:py-44">
         <Reveal>
           <p className="mono mb-8 text-[12px] tracking-[0.24em] text-accent">
-            <span className="text-foreground/35">§06 / </span>JOIN THE FRONTIER
+            <span className="text-foreground/35">§09 / </span>JOIN THE CRUCIBLE
           </p>
         </Reveal>
         <Reveal delay={60}>
           <h2 className="mx-auto max-w-3xl text-[clamp(2rem,5.5vw,3.75rem)] leading-[1.04] text-foreground">
-            Stop reading about the future of the human body.{" "}
-            <span className="text-accent">Help write it.</span>
+            Stop reading about the next human.{" "}
+            <span className="text-accent">Become it.</span>
           </h2>
         </Reveal>
         <Reveal delay={140}>
-          <Link
-            href="/book"
-            className="btn-primary mt-10 inline-block px-8 py-4 text-[15px]"
-          >
-            Book a consultation
-          </Link>
+          <div className="mt-10 flex flex-col items-center justify-center gap-3 sm:flex-row">
+            <Link
+              href="/consultation/intake"
+              className="btn-primary inline-block px-8 py-4 text-[15px]"
+            >
+              Start your consultation brief
+            </Link>
+            <a
+              href="#collective"
+              className="btn-ghost inline-block px-8 py-4 text-[15px]"
+            >
+              Join the community
+            </a>
+          </div>
         </Reveal>
       </div>
     </section>

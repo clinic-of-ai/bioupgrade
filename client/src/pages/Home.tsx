@@ -10,6 +10,7 @@ import Consultation from "@/components/landing/Consultation";
 import Voices from "@/components/landing/Voices";
 import Manifesto from "@/components/landing/Manifesto";
 import FinalCTA from "@/components/landing/FinalCTA";
+import Collective from "@/components/landing/Collective";
 
 /*
  * BIOUPGRADE — landing page.
@@ -29,6 +30,7 @@ export default function Home() {
         <Products />
         <ShopSection />
         <Voices />
+        <Collective />
         <Manifesto />
         <FinalCTA />
       </main>

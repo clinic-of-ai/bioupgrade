@@ -14,17 +14,18 @@ export default function Products() {
           <div className="flex flex-col justify-between gap-8 md:flex-row md:items-end">
             <div className="max-w-2xl">
               <p className="mono text-[12px] tracking-[0.24em] text-accent">
-                <span className="text-foreground/35">§04 / </span>THE OFFER
+                <span className="text-foreground/35">§04 / </span>THE PROTOCOLS
               </p>
               <h2 className="mt-4 text-[clamp(2rem,5vw,3.6rem)] leading-[1.02] text-foreground">
-                Evidence to action.
+                From the frontier.
                 <br />
-                <span className="text-accent">Built for decisions.</span>
+                <span className="text-accent">Built around you.</span>
               </h2>
               <p className="mt-6 max-w-xl text-[16px] leading-relaxed text-foreground/65">
-                Start with a defined question, a permitted corpus and a decision
-                worth improving. We bring the sources, the systems and the human
-                review.
+                Four levels of depth, from a focused strategy session to a fully
+                customised concierge protocol. You bring the goal; we bring the
+                literature, our own protocol work and a team that has spent years
+                at the edge of the field.
               </p>
             </div>
             <Link
