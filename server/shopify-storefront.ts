@@ -84,9 +84,11 @@ const cartSchema = z.object({
           quantity: z.number().int().min(1).max(20),
           merchandise: variantSchema,
           cost: z.object({ totalAmount: moneySchema }),
+          // Not requested (needs unauthenticated_read_selling_plans); still rejected if ever present.
           sellingPlanAllocation: z
             .object({ sellingPlan: z.object({ id: z.string() }) })
-            .nullable(),
+            .nullable()
+            .optional(),
         })
       )
       .max(MAX_CART_LINES),
@@ -188,7 +190,6 @@ const CART_FIELDS = `id totalQuantity cost { subtotalAmount { ${MONEY} } totalAm
   lines(first: 20) { pageInfo { hasNextPage } nodes {
     __typename id quantity cost { totalAmount { ${MONEY} } }
     merchandise { ... on ProductVariant { ${VARIANT} } }
-    ... on CartLine { sellingPlanAllocation { sellingPlan { id } } }
   } }`;
 /** Closed set of operations. Clients can never submit GraphQL or Admin operations. */
 const OPERATIONS = {
